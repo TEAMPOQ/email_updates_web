@@ -1,0 +1,1895 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]><html class="no-js ie9" lang="en-US"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+    <head>
+        <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                
+        
+        
+        <link rel="shortcut icon" href="https://modafinilxl.com/wp-content/uploads/2016/04/Logo32Modafinil.png"/>
+
+        <link rel="apple-touch-icon-precomposed" href="https://modafinilxl.com/wp-content/uploads/2016/04/Logo144-Buy-Modafinil-Online-Apple.png"/>
+       <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script><![endif]-->
+        <script>
+            (function (w) {
+
+                // Define two queues for handlers
+                w.readyQ = [];
+                w.bindReadyQ = [];
+
+                // Define the fake jQuery function to capture handlers
+                w.$ = w.jQuery = function (handler) {
+
+                    // Push a handler into the correct queue
+                    function pushToQ(x, y) {
+                        if (x == "ready") {
+                            w.bindReadyQ.push(y);
+                        } else {
+                            w.readyQ.push(x);
+                        }
+                    }
+
+                    if (handler === document || handler === undefined) {
+                        // Queue $(document).ready(handler), $().ready(handler)
+                        // and $(document).bind("ready", handler) by returning
+                        // an object with alias methods for pushToQ
+                        return {
+                            ready: pushToQ,
+                            bind: pushToQ
+                        };
+                    } else {
+                        // Queue $(handler)
+                        pushToQ(handler);
+                    }
+                }
+
+            })(window);
+        </script>
+                <meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v17.5 (Yoast SEO v20.9) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Order Tracking ­– ModafinilXL</title>
+	<meta name="description" content="Tracking. ModafinilXL ­– Free Samples, Brain Supercharger, Fastest Shipping, Pay with Bitcoin or any Credit Card." />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Tracking" />
+	<meta property="og:description" content="Tracking. ModafinilXL ­– Free Samples, Brain Supercharger, Fastest Shipping, Pay with Bitcoin or any Credit Card." />
+	<meta property="og:url" content="https://modafinilxl.com/tracking/" />
+	<meta property="og:site_name" content="ModafinilXL" />
+	<meta property="article:modified_time" content="2023-03-06T12:30:34+00:00" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="4 minutes" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<meta name="google-site-verification" content="K8ioMRFms2yPiF5XnbSNtfr9ecH3f72SLjDV74PnD2M" /><link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.16 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No UA code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='yotpoSideBootomLineStylesheet-css' href='https://modafinilxl.com/wp-content/plugins/yotpo-social-reviews-for-woocommerce/assets/css/bottom-line.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://modafinilxl.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://modafinilxl.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=10.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://modafinilxl.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=10.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wcan-shortcodes-css' href='https://modafinilxl.com/wp-content/plugins/yith-woocommerce-ajax-navigation/assets/css/shortcodes.css?ver=4.23.0' type='text/css' media='all' />
+<style id='yith-wcan-shortcodes-inline-css' type='text/css'>
+:root{
+	--yith-wcan-filters_colors_titles: #434343;
+	--yith-wcan-filters_colors_background: #FFFFFF;
+	--yith-wcan-filters_colors_accent: #A7144C;
+	--yith-wcan-filters_colors_accent_r: 167;
+	--yith-wcan-filters_colors_accent_g: 20;
+	--yith-wcan-filters_colors_accent_b: 76;
+	--yith-wcan-color_swatches_border_radius: 100%;
+	--yith-wcan-color_swatches_size: 30px;
+	--yith-wcan-labels_style_background: #FFFFFF;
+	--yith-wcan-labels_style_background_hover: #A7144C;
+	--yith-wcan-labels_style_background_active: #A7144C;
+	--yith-wcan-labels_style_text: #434343;
+	--yith-wcan-labels_style_text_hover: #FFFFFF;
+	--yith-wcan-labels_style_text_active: #FFFFFF;
+	--yith-wcan-anchors_style_text: #434343;
+	--yith-wcan-anchors_style_text_hover: #A7144C;
+	--yith-wcan-anchors_style_text_active: #A7144C;
+}
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://modafinilxl.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='redux-extendify-styles-css' href='https://modafinilxl.com/wp-content/plugins/redux-framework/redux-core/assets/css/extendify-utilities.css?ver=4.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cg_toolkit_styles-css' href='https://modafinilxl.com/wp-content/plugins/commercegurus-toolkit/css/cg_toolkit.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://modafinilxl.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cryptowoo-css' href='https://modafinilxl.com/wp-content/plugins/cryptocurrency-payment-gateway/assets/css/cryptowoo-plugin.css?ver=1.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cw-cryptocoins-css' href='https://modafinilxl.com/wp-content/plugins/cryptocurrency-payment-gateway/assets/fonts/cw-coinfont.css?ver=1.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://modafinilxl.com/wp-content/plugins/cryptocurrency-payment-gateway/assets/fontawesome-free-5.4.1-web/css/all.css?ver=1.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='idlatobshipping-css' href='https://modafinilxl.com/wp-content/plugins/idlppsms/public/css/idlatobshipping-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swnza_css-css' href='https://modafinilxl.com/wp-content/plugins/sitewide-notice-wp/css/swnza.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-conditional-product-fees-for-checkout-css' href='https://modafinilxl.com/wp-content/plugins/woocommerce-conditional-product-fees-for-checkout-premium/public/css/woocommerce-conditional-product-fees-for-checkout-public.css?ver=3.9.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='follow-up-emails-css' href='https://modafinilxl.com/wp-content/plugins/woocommerce-follow-up-emails/templates/followups.css?ver=4.9.51' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wp-postratings-css' href='https://modafinilxl.com/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.90.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-frontend-css' href='https://modafinilxl.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-flatpickr-css' href='https://modafinilxl.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-select2-css' href='https://modafinilxl.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='affwp-forms-css' href='https://modafinilxl.com/wp-content/plugins/affiliate-wp/assets/css/forms.min.css?ver=2.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://modafinilxl.com/wp-includes/css/dashicons.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='dashicons-inline-css' type='text/css'>
+[data-font="Dashicons"]:before {font-family: 'Dashicons' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='stylesheet' id='jquery-ui-style-css' href='https://modafinilxl.com/wp-content/plugins/woocommerce-jetpack/includes/css/jquery-ui.css?ver=1690874960' type='text/css' media='all' />
+<link rel='stylesheet' id='wcj-timepicker-style-css' href='https://modafinilxl.com/wp-content/plugins/woocommerce-jetpack/includes/lib/timepicker/jquery.timepicker.min.css?ver=6.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-bootstrap-css' href='//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/css/bootstrap.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-font-awesome-css' href='//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-style-css' href='https://modafinilxl.com/wp-content/themes/adrenalin-child/style.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-commercegurus-css' href='https://modafinilxl.com/wp-content/themes/adrenalin/css/commercegurus.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-responsive-css' href='https://modafinilxl.com/wp-content/themes/adrenalin/css/responsive.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-compiled-options-gambit-vc-4k-icons-free-css' href='https://modafinilxl.com/wp-content/uploads/titan-framework-gambit-vc-4k-icons-free-css.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='affwp-crypto-css-css' href='https://modafinilxl.com/wp-content/plugins/affiliatewp-crypto/plugin_core/includes/css/cs_plugin.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://modafinilxl.com/wp-content/plugins/tablepress/css/build/default.css?ver=2.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://modafinilxl.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<style id='font-awesome-inline-css' type='text/css'>
+[data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='stylesheet' id='wc-bitcoin-css' href='https://modafinilxl.com/wp-content/plugins/codecanyon-9085826-bitcoin-for-woocommerce-3/assets/css/checkout.css?ver=3.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://modafinilxl.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wapg-widgets-css' href='https://modafinilxl.com/wp-content/plugins/woo-altcoin-payment-gateway/assets//css/widgets.min.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wapg-checkout-css' href='https://modafinilxl.com/wp-content/plugins/woo-altcoin-payment-gateway/assets//css/checkout.min.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ag-styles-css' href='https://modafinilxl.com/wp-content/plugins/ag_functions/assets/css/styles.css?ver=20190221' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-wallet-style-css' href='https://modafinilxl.com/wp-content/plugins/woo-wallet/assets/css/frontend.css?ver=1.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='adrenalin-css' href='https://modafinilxl.com/wp-content/themes/adrenalin/style.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='adrenalin-child-css' href='https://modafinilxl.com/wp-content/themes/adrenalin-child/style.css?ver=1.3.12.5' type='text/css' media='all' />
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%20Condensed:300,400,700,300italic,400italic,700italic%7CRoboto:100,300,400,500,700,900,100italic,300italic,400italic,500italic,700italic,900italic&#038;display=swap&#038;ver=1689189898" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%20Condensed:300,400,700,300italic,400italic,700italic%7CRoboto:100,300,400,500,700,900,100italic,300italic,400italic,500italic,700italic,900italic&#038;display=swap&#038;ver=1689189898" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%20Condensed:300,400,700,300italic,400italic,700italic%7CRoboto:100,300,400,500,700,900,100italic,300italic,400italic,500italic,700italic,900italic&#038;display=swap&#038;ver=1689189898" /></noscript><meta name="generator" content="Redux 4.4.4" /><script type="text/javascript">var ajaxurl = "https://modafinilxl.com/wp-admin/admin-ajax.php";</script>		<script type="text/javascript">
+		var AFFWP = AFFWP || {};
+		AFFWP.referral_var = 'promo';
+		AFFWP.expiration = 30;
+		AFFWP.debug = 0;
+
+
+		AFFWP.referral_credit_last = 1;
+		</script>
+<style>div.woocommerce-variation-add-to-cart-disabled { display: none ! important; }</style>    <script data-type="lazy" data-src="data:text/javascript;base64,KGZ1bmN0aW9uKHcsZCxzLGwsaSl7d1tsXT13W2xdfHxbXTt3W2xdLnB1c2goeydndG0uc3RhcnQnOgpuZXcgRGF0ZSgpLmdldFRpbWUoKSxldmVudDonZ3RtLmpzJ30pO3ZhciBmPWQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF0sCmo9ZC5jcmVhdGVFbGVtZW50KHMpLGRsPWwhPSdkYXRhTGF5ZXInPycmbD0nK2w6Jyc7ai5hc3luYz10cnVlO2ouc3JjPQogICAgICAgICAgICAnLy93d3cuZ29vZ2xldGFnbWFuYWdlci5jb20vZ3RtLmpzP2lkPScraStkbDtmLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGosZik7Cn0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnZGF0YUxheWVyJywnR1RNLTVNV0JKNCcpOw=="></script>		<script type="text/javascript">
+			var view_mode_default = 'grid-layout';
+			var cg_sticky_default = 'yes';
+			var cg_chosen_variation = 'wc_chosen_variation_enabled';
+		</script>
+			<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.14.0; features: a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+
+    <style type="text/css">
+
+        .menu-item-67242 .cg-menu-img {display: none;}
+.menu-item-551430 .cg-menu-img {display: none;}
+.menu-item-67016 .cg-menu-img {display: none;}
+.menu-item-431257 .cg-menu-img {display: none;}
+.menu-item-67437 .cg-menu-img {display: none;}
+.menu-item-67240 .cg-menu-img {display: none;}
+.menu-item-100919 .cg-menu-img {display: none;}
+.menu-item-511214 .cg-menu-img {display: none;}
+.menu-item-104316 .cg-menu-img {display: none;}
+.menu-item-145313 .cg-menu-img {display: none;}
+
+            .cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a:hover, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a:hover 
+            {
+                color: #f2f2f2;
+            }
+        
+                    body {
+                background-color: #ffffff; 
+            }
+        
+        
+        
+        
+        
+                    #wrapper {
+                background-color: #ffffff; 
+            }
+        
+        
+            #top,
+            .new.menu-item a:after,
+            .faqs-reviews .accordionButton .icon-plus:before,
+            .container .cg-product-cta a.button.addedcg-product-cta .button:hover, 
+            .container .cg-product-cta a.button.loading,
+            .defaultloop .add_to_cart_button.loading,
+            .mc4wp-form input[type="submit"],
+            body.woocommerce .widget_layered_nav ul.yith-wcan-label li a:hover, 
+            body.woocommerce-page .widget_layered_nav ul.yith-wcan-label li a:hover, 
+            body.woocommerce-page .widget_layered_nav ul.yith-wcan-label li.chosen a,
+            .content-area ul li:before,
+            .container .mejs-controls .mejs-time-rail .mejs-time-current,
+            .wpb_toggle:before, h4.wpb_toggle:before,
+            #filters button.is-checked,
+            .container .cg-product-cta a.button.added, 
+            .container .cg-product-cta a.button.loading,
+            .defaultloop .add_to_cart_button.added,
+            .tipr_content,
+            .navbar-toggle .icon-bar,
+            .woocommerce-page .container input.button,
+            .woocommerce-page .container button.button,
+            .cart-collaterals .wc-proceed-to-checkout a,
+            .product-title-wrapper,
+            #calendar_wrap caption,
+            .content-area table.my_account_orders td.order-actions a,
+            .woocommerce-page .container #yith-wcwl-form a.button,
+            .content-area article a.more-link,
+            .subfooter #mc_signup_submit,
+            .cg-quickview-product-pop .single-product-details .button,
+            .container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-accordion-header-active,
+            .page-numbers li span.current,
+            .page-numbers li a:hover,
+            .owl-theme .owl-controls .owl-page.active span, 
+            .owl-theme .owl-controls.clickable .owl-page:hover span
+
+            {
+                background-color: #ca1a1d !important; 
+            }
+
+            /* non !important overrides */ 
+
+            .header-wrapper 
+
+            {
+                background-color: #ca1a1d; 
+            }
+
+            .cg-product-cta .button:hover,
+            .defaultloop .button:hover,
+            .woocommerce-page .container .price_slider_amount .button:hover,
+            ul.tiny-cart li ul.cart_list li.buttons .button,
+            #respond input#submit:hover,
+            .woocommerce-page .container p.return-to-shop a.button:hover,
+            .blog-pagination ul li a:hover,
+            body.error404 .content-area a.btn:hover,
+            #respond input#submit:hover, 
+            .wpcf7 input.wpcf7-submit:hover,
+            .container .wpb_tour_next_prev_nav a:hover
+
+            {
+                color: #ca1a1d !important;
+                border-color: #ca1a1d !important;
+            }
+
+            .page-numbers li span.current,
+            .page-numbers li a:hover,
+            .container .cg-product-cta a.button.added,
+            .defaultloop .add_to_cart_button.added, 
+            .container .cg-product-cta a.button.loading,
+            .prev-product:hover:before, 
+            .next-product:hover:before,
+            .owl-theme .owl-controls .owl-page.active span, 
+            .owl-theme .owl-controls.clickable .owl-page:hover span 
+
+            {
+                border-color: #ca1a1d;
+            }
+
+            a,
+            .cg-features i,
+            .cg-features h2,
+            .widget_layered_nav ul.yith-wcan-list li a:before,
+            .widget_layered_nav ul.yith-wcan-list li.chosen a:before,
+            .widget_layered_nav ul.yith-wcan-list li.chosen a,
+            blockquote:before,
+            blockquote:after,
+            article.format-link .entry-content p:before,
+            .container .ui-state-default a, 
+            .container .ui-state-default a:link, 
+            .container .ui-state-default a:visited,
+            .logo a,
+            .woocommerce-breadcrumb a,
+            #cg-articles h3 a,
+            .cg-wp-menu-wrapper .menu li:hover > a,
+            .cg-recent-folio-title a, 
+            .content-area h2.cg-recent-folio-title a,
+            .content-area .order-wrap h3,
+            .cg-product-info .yith-wcwl-add-to-wishlist a:hover:before,
+            .cg-product-wrap .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse.show a:before,
+            .widget_rss ul li a,
+            .lightwrapper .widget_rss ul li a,
+            .woocommerce-tabs .tabs li a:hover,
+            .summary .price,
+            .content-area .cart_totals h2,
+            .widget.widget_recent_entries ul li a,
+            .blog-pagination ul li.active a,
+            .icon.cg-icon-bag-shopping-2, 
+            .icon.cg-icon-basket-1, 
+            .icon.cg-icon-shopping-1,
+            #top-menu-wrap li a:hover,
+            .cg-product-info .amount,
+            .defaultloop .amount,
+            .single-product-details .price ins,
+            .prev-product:hover:before, 
+            .next-product:hover:before,
+            body.woocommerce-checkout .woocommerce-info a,
+            .widget_layered_nav ul li.chosen a:before,
+            .content-area .woocommerce-MyAccount-navigation ul li a:hover,
+            .content-area .woocommerce-MyAccount-navigation ul li.is-active a
+
+            {
+                color: #ca1a1d;
+            }
+
+            .owl-theme .owl-controls .owl-buttons div:hover,
+            .content-area blockquote:hover, 
+            article.format-link .entry-content p:hover,
+            .blog-pagination ul li a:hover,
+            .blog-pagination ul li.active a,
+            .container .ui-state-hover,
+            #filters button.is-checked,
+            #filters button.is-checked:hover,
+            .container form.cart .button:hover, 
+            .woocommerce-page .container p.cart a.button:hover,
+            .map_inner,
+            .order-wrap,
+            .woocommerce-page .container .cart-collaterals input.checkout-button, 
+            .woocommerce .checkout-button,
+            h4.widget-title span,
+            .content-area article a.more-link,
+            .wpb_teaser_grid .categories_filter li.active a,
+            .container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-accordion-header-active
+
+            {
+                border-color: #ca1a1d;
+            }
+
+            .woocommerce .woocommerce_tabs ul.tabs li.active a, 
+            .woocommerce .woocommerce-tabs ul.tabs li.active a, 
+            ul.tabNavigation li a.active,
+            .wpb_teaser_grid .categories_filter li.active a,
+            .cg-quick-view-wrap a,
+            ul.tiny-cart li ul.cart_list li.buttons .button.checkout
+
+            {
+                background: #ca1a1d !important;
+
+            }
+
+            .tipr_point_top:after,
+            .woocommerce .woocommerce-tabs ul.tabs li.active a:after {
+                border-top-color: #ca1a1d;
+            }
+
+            .tipr_point_bottom:after,
+            .content-area a:hover
+            {
+                border-bottom-color: #ca1a1d;
+            }
+
+        
+        
+            a,
+            .logo a,
+            .navbar ul li.current-menu-item a, 
+            .navbar ul li.current-menu-ancestor a, 
+            #cg-articles h3 a,
+            .widget-area .widget.widget_rss ul li a,
+            .widget-area .widget #recentcomments li a,
+            .current_page_ancestor,
+            .current-menu-item,
+            .cg-primary-menu .menu > li.current-menu-item > a,
+            .cg-primary-menu .menu > li.current-menu-ancestor > a
+            {
+                color: #ed003f; 
+            }
+        
+        
+            #top .dropdown-menu li a:hover, 
+            ul.navbar-nav li .nav-dropdown li a:hover,
+            .navbar ul li.current-menu-item a:hover, 
+            .navbar ul li.current-menu-ancestor a:hover,
+            .owl-theme .owl-controls .owl-buttons div:hover,
+            .woocommerce ul.product_list_widget li a:hover,
+            .content-area a.reset_variations:hover,
+            .widget_recent_entries ul li a:hover,
+            .content-area article h2 a:hover,
+            .content-area footer.entry-meta a:hover,
+            .content-area footer.entry-meta .comments-link:hover:before, 
+            .content-area a.post-edit-link:hover:before,
+            .scwebsite:hover:before,
+            .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul > li a:hover, 
+            body .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a:hover, 
+            .cg-submenu-ddown .container > ul > li > a:hover,
+            .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul > li a:hover,
+            .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a:hover
+            {
+                color: #e2003c !important; 
+            }
+        
+                    .header,
+            .cg-menu-default,
+            .cg-menu-below
+            {
+                background-color: #ffffff; 
+            }
+        
+                    .cg-header-fixed-wrapper.cg-is-fixed
+            {
+                background-color: #ffffff; 
+            }
+        
+                    ul.tiny-cart li a {
+                color: #111111 !important; 
+            }
+        
+                    .lightwrapper 
+
+            {
+                background-color: #f4f4f4; 
+            }
+
+        
+                    .subfooter 
+
+            {
+                background-color: #111111; 
+            }
+
+        
+                    .footer 
+
+            {
+                background-color: #111111; 
+            }
+
+        
+                    .lightwrapper h4, .lightwrapper ul li a 
+
+            {
+                color: #222222 !important; 
+            }
+
+        
+        
+            .subfooter #mc_subheader,
+            .subfooter .widget_recent_entries ul li a,
+            .subfooter ul.product_list_widget li a,
+            .subfooter #mc_signup_submit,
+            .subfooter p a,
+            .subfooter h4,
+            .subfooter h4.widget-title,
+            .subfooter,
+            .subfooter .textwidget,
+            .bottom-footer-left a
+
+            {
+                color: #ffffff !important; 
+            }
+
+        
+                    .footer p
+
+            {
+                color: #777777; 
+            }
+
+        
+                    .cg-product-cta .add_to_cart_button, 
+            .cg-product-cta .product_type_external,
+            .cg-product-cta .product_type_grouped
+
+            {
+                background: #ffffff !important; 
+            }
+
+        
+                    .cg-product-cta .add_to_cart_button,
+            .cg-product-cta .product_type_external,
+            .cg-product-cta .product_type_grouped,
+            .defaultloop .button
+
+            {
+                color: #b2b2b2 !important; 
+            }
+
+        
+                    .header,
+            /* ul.tiny-cart, */
+            .mean-bar,
+            .cg-menu-default,
+            .cg-menu-default .logo,
+            .cg-menu-below,
+            .responsive-container,
+            .cg-menu-below .logo,
+            .dummy
+
+            {
+                height: 150px; 
+            }
+
+
+            .cg-menu-below .img-container img {
+                max-height: 150px;
+            }
+
+            .cg-logo-cart-wrap input.sb-search-submit,
+            .cg-header-search input.search-submit {
+                top: 75px;
+                margin-top: -15px;
+            }
+
+            .cg-menu-default .logo img, .cg-menu-below .logo img {
+                max-height: 150px; 
+            }
+
+            .text-logo h1,
+            #top-bar-wrap,
+            #top-bar-wrap,
+            .top-nav-wrap ul li a,
+            .cg-announcements li,
+            .cg-header-search,
+            .cg-menu-below .sb-search
+
+            {
+                line-height: 150px; 
+            }
+
+            ul.tiny-cart li ul li, .cg-header-fixed-wrapper.cg-is-fixed ul.tiny-cart li ul li {
+                height: auto;
+            }
+
+            .cg-logo-inner-cart-wrap .autocomplete-suggestions
+            {
+                top: 75px; 
+                bottom: auto;
+                margin-top: 6px;
+            }
+
+            .cg-header-fixed .cg-cart-count {
+                top: 40px; 
+                bottom: auto;
+                margin-top: -3px;
+            }
+
+            @media only screen and (min-width: 1100px) {
+
+                .cg-logo-center .logo img {
+                    top: -150px; 
+                }
+
+                
+
+            }
+
+        
+                    .cg-header-fixed-wrapper.cg-is-fixed .header, 
+            .cg-header-fixed-wrapper.cg-is-fixed ul.tiny-cart,
+            .cg-header-fixed-wrapper.cg-is-fixed ul.tiny-cart li, 
+            .cg-header-fixed-wrapper.cg-is-fixed .mean-bar,
+            .cg-header-fixed .menu, .cg-primary-menu .menu
+
+            {
+                height: 80px; 
+            }
+
+            .cg-header-fixed-wrapper.cg-is-fixed ul.tiny-cart li:hover ul.cart_list
+            {
+                top: 80px !important;
+            }
+
+            .cg-header-fixed-wrapper.cg-is-fixed .cg-header-fixed .menu > li > a,
+            .cg-header-fixed-wrapper.cg-is-fixed .text-logo h1,
+            .cg-header-fixed-wrapper.cg-is-fixed .cg-announcements li,
+            .cg-header-fixed-wrapper.cg-is-fixed ul.tiny-cart,
+            .cg-header-fixed-wrapper.cg-is-fixed ul.tiny-cart li,
+            .cg-header-fixed-wrapper.cg-is-fixed .navbar ul li a
+            {
+                line-height: 80px;
+            }
+
+            .cg-header-fixed-wrapper.cg-is-fixed .logo img {
+                max-height: 80px; 
+            }
+
+            .cg-header-fixed-wrapper.cg-is-fixed .logo {
+                height: 80px; 
+            }
+
+            #top-bar-search .autocomplete-suggestions {
+                margin-top: -75px; 
+            }
+
+            #lang_sel {
+                margin-top: 75px; 
+            }
+
+        
+        
+            @media only screen and (max-width: 1100px) { 
+
+                .header,
+                ul.tiny-cart,
+                ul.tiny-cart li,
+                .mean-bar,
+                .cg-menu-default,
+                .cg-menu-default .logo,
+                .cg-menu-below,
+                .cg-menu-below .logo,
+                .responsive-container
+
+                {
+                    /* $cg_header_height_mobile */
+                    height: 80px; 
+                }
+
+                .cg-menu-default .logo img, 
+                .cg-menu-below .logo img,
+                .cg-menu-below .img-container img {
+                    max-height: 80px; 
+                }
+
+                ul.tiny-cart, 
+                .logo a,
+                .navbar ul li a,
+                .text-logo h1,
+                .cg-announcements li
+                {
+                    /* $cg_header_height_mobile */
+                    line-height: 80px !important; 
+                }
+
+                ul.tiny-cart li {
+                    line-height: inherit !important;
+                }
+
+                ul.tiny-cart li:hover ul.cart_list {
+                    top: 80px;
+                }
+
+                .logo img {
+                    max-height: 80px;
+                }
+
+                .mean-container a.meanmenu-reveal {
+                    padding: 30px 15px;
+                }
+
+                .mean-container .mean-nav {
+                    top: 80px;
+                }
+
+                .cg-header-cart-icon-wrap {
+                    top: -80px; 
+                }
+
+                .cg-cart-count {
+                    top: 40px; 
+                }
+
+            }
+
+        
+                    .menu-full-width .cg-menu-title-wrap
+            {
+                line-height: 200px;
+            }
+
+            .menu-full-width .cg-menu-img {
+                height: 200px; 
+            }
+
+        
+        .content-area header .entry-meta:before{content: ''!important}
+    </style>
+
+    		<style type="text/css" id="wp-custom-css">
+			#cryptowoo_checkout_field { display: none; }
+.mean-container a.meanmenu-reveal:not(.meanclose) > span {
+    height: 10px;
+    background: none;
+    border-top: 2px solid #666;
+    border-bottom: 2px solid #666;
+}		</style>
+		<style id="cg_reduxopt-dynamic-css" title="dynamic-css" class="redux-options-output">.cg-primary-menu .menu > li > a, .cart_subtotal .amount{font-family:"Roboto Condensed";text-transform:uppercase;font-weight:400;font-style:normal;color:#333;font-size:16px;}.cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a, .menu-full-width .cg-menu-title{font-family:"Roboto Condensed";text-transform:uppercase;font-weight:400;font-style:normal;color:#fff;font-size:17px;}.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a, .cg-submenu-ddown .container > ul > li > a{font-family:"Roboto Condensed";text-transform:uppercase;font-weight:400;font-style:normal;color:#f2f2f2;font-size:14px;}.cg-header-fixed .menu > li .cg-submenu-ddown, .cg-primary-menu .menu > li .cg-submenu-ddown, .cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown, .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu li, .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu li,.cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown,.cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown, .menu-full-width .cg-menu-title{background:#181a19;}.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a, .cg-submenu-ddown .container > ul > li > a{border-bottom:1px solid #383838;border-left:1px solid #383838;border-right:1px solid #383838;}body,select,input,textarea,button,.widget ul li a{font-family:Roboto;line-height:23px;font-weight:400;font-style:normal;color:#444;font-size:15px;}a.btn,.content-area a.btn,.content-area a.btn:hover,#respond input#submit,.wpcf7 input.wpcf7-submit,ul.navbar-nav li .nav-dropdown > ul > li.menu-parent-item > a,ul.tiny-cart li ul.cart_list li.buttons .button,#get-started .main h6,.content-area .see-through,.testimonials-wrap  span,.faqs-reviews ul li h6,.cg-product-info .category,.products .onsale,.woocommerce span.onsale,.products .woocommerce-page span.onsale,.onsale,.woocommerce .container span.onsale,.woocommerce-page .container span.onsale,.cart .quantity,.woocommerce .button,.woocommerce .container a.button,.cg-product-cta,.mc4wp-form input[type="submit"],.woocommerce .container button.button,.woocommerce .container input.button,.woocommerce .container #respond input#submit,.woocommerce .container #content input.button,.woocommerce-page .container .cg-product-cta a.button,.cg-product-cta .button,.woocommerce-page .container a.button,.defaultloop .button,.woocommerce-page .container button.button,.woocommerce-page .container input.button,.woocommerce-page .container #respond input#submit,.woocommerce-page .container #content input.button,.added_to_cart,.woocommerce .container div.product form.cart .button,.woocommerce .container #content div.product form.cart .button,.woocommerce-page .container div.product form.cart .button,.woocommerce-page .container #content div.product form.cart .button,.woocommerce-page .container p.cart a.button,.cg-quickview-product-pop .single-product-details .button,.content-area .woocommerce .summary .button,.woocommerce .container span.onsale,.woocommerce-page .container span.onsale,.woocommerce-page .container a.button.small,.content-area .woocommerce a.button.small,.widget_product_search input#searchsubmit,.widget h1,.post-password-form input[type="submit"],.content-area .comments-area h2,.content-area article a.more-link,.blog-pagination ul li a,.content-area table.cart tr th,.content-area .coupon h3,.woocommerce-page .container form.login input.button,.subfooter #mc_signup_submit,.container .wpb_row .wpb_call_to_action a .wpb_button,.container .vc_btn,.wpb_button,.top-bar-right,.cg-shopping-toolbar .wpml,body .wpb_teaser_grid .categories_filter li a,#filters button,.cg-product-wrap a .category,.lightwrapper h4,.cg-back-to-prev a,.summary .price,.cg-product-detail .product_title,.cg-quickview-product-pop .product_title,.cg-strip-wrap h1,.yith-wcwl-add-to-wishlist a,table.variations label,.woocommerce-tabs .tabs li a,.cg-size-guide a,.woocommerce-page .content-area form fieldset legend,.subfooter ul.simple-links li a{font-family:"Roboto Condensed";line-height:23px;font-weight:400;font-style:normal;font-size:13px;}h1.cg-page-title,.content-area h1,.product-page-title h1{font-family:"Roboto Condensed";line-height:45px;font-weight:700;font-style:normal;color:#222;font-size:30px;}h2,.content-area h2{font-family:"Roboto Condensed";line-height:40px;font-weight:700;font-style:normal;color:#222;font-size:28px;}h3,.content-area h3{font-family:"Roboto Condensed";line-height:30px;font-weight:700;font-style:normal;color:#222;font-size:26px;}h4,.content-area h4{font-family:"Roboto Condensed";line-height:24px;font-weight:400;font-style:normal;color:#222;font-size:22px;}h5,.content-area h5{font-family:"Roboto Condensed";line-height:22px;font-weight:700;font-style:normal;color:#222;font-size:19px;}h6,.content-area h6{font-family:"Roboto Condensed";line-height:20px;font-weight:normal;font-style:normal;color:#222;font-size:16px;}h4.widget-title{font-family:"Roboto Condensed";text-transform:uppercase;line-height:20px;font-weight:400;font-style:normal;color:#333;font-size:16px;}.cg-product-info .amount{font-family:"Roboto Condensed";text-transform:uppercase;font-weight:400;font-style:normal;font-size:16px;}.cg-product-info .price del span.amount{font-family:"Roboto Condensed";text-transform:uppercase;font-weight:400;font-style:normal;color:#999;font-size:14px;}</style><style id="cryptowoo_payments-dynamic-css" title="dynamic-css" class="redux-options-output">img.dd-image-right{background-color:#fdfdfd;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style>    </head>
+    <body id="skrollr-body" class="page-template page-template-page-full-width page-template-page-full-width-php page page-id-67773 theme-adrenalin woocommerce-no-js yith-wcan-free group-blog cg-sticky-enabled boxed cgtoolkit wpb-js-composer js-comp-ver-6.10.0 vc_responsive elementor-default elementor-kit-379736">
+    <div id="as-root"></div><script data-type="lazy" data-src="data:text/javascript;base64,KGZ1bmN0aW9uKGUsdCxuKXt2YXIgcixpPWUuZ2V0RWxlbWVudHNCeVRhZ05hbWUodClbMF07aWYoZS5nZXRFbGVtZW50QnlJZChuKSlyZXR1cm47cj1lLmNyZWF0ZUVsZW1lbnQodCk7ci5pZD1uO3Iuc3JjPSJodHRwczovL2J1dHRvbi5hZnRlcnNoaXAuY29tL2FsbC5qcyI7aS5wYXJlbnROb2RlLmluc2VydEJlZm9yZShyLGkpfSkoZG9jdW1lbnQsInNjcmlwdCIsImFmdGVyc2hpcC1qc3NkayIp"></script>
+        <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5MWBJ4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->        <div id="wrapper">
+            <div class="cg-shopping-toolbar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-6 col-lg-6 wpml">
+                                                            <div id="text-1" class="widget_text">			<div class="textwidget"><p>All prices are in USD/EUR. We ship Modafinil to the USA 🇺🇸 🇬🇧 🇦🇺 🇨🇦🇨🇭 Singapore, Asia, and <a href="https://modafinilxl.com/shipping/">more &gt;</a></p>
+</div>
+		</div>                                                    </div>
+                        <div class="col-sm-6 col-md-6 col-lg-6 visible-lg top-bar-right">
+                                                            <div id="text-2" class="widget_text">			<div class="textwidget"><a href="https://modafinilxl.com/my-account/"class="divider" >My Account</a>
+<a href="https://modafinilxl.com/blog/" class="divider">Blog</a>
+<a href="https://modafinilxl.com/tracking/" class="divider"> Tracking</a>
+<a href="https://modafinilxl.com/shipping/" class="divider"> Shipping & Payment</a>
+<a href="https://support.modafinilxl.com/hc/en-us/" rel="nofollow noopener" target="_blank" class="divider">Help Center</a>
+<a href="https://support.modafinilxl.com/hc/en-us/requests/new" target="_blank" class="divider" rel="nofollow noopener noreferrer">Talk To Us</a></div>
+		</div>                                                    </div>
+                        <div class="col-sm-6 col-md-6 col-lg-6 visible-md visible-sm visible-xs mobile-search">
+                                                            <div id="woocommerce_product_search-2" class="woocommerce widget_product_search"><p class="widget-title"><span>Search Products</span></p><form role="search" method="get" class="woocommerce-product-search" action="https://modafinilxl.com/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
+	<input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Search products&hellip;" value="" name="s" />
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>                                                    </div>
+                    </div>
+                </div>
+            </div>
+                        <!-- Default Logo to the left with menu below -->
+            <div class="cg-menu-below">
+                <div class="container">
+                    <div class="cg-logo-cart-wrap">
+                        <div class="cg-logo-inner-cart-wrap">
+                            <div class="row">
+                                <div class="container">
+                                    <div class="cg-wp-menu-wrapper">
+                                                                                <div id="load-mobile-menu">
+                                        </div>
+                                        
+                                        <div class="cg-header-search visible-lg">
+                                                                                            <div id="woocommerce_product_search-3" class="woocommerce widget_product_search"><p class="widget-title"><span>Search Products</span></p><form role="search" method="get" class="woocommerce-product-search" action="https://modafinilxl.com/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-1">Search for:</label>
+	<input type="search" id="woocommerce-product-search-field-1" class="search-field" placeholder="Search products&hellip;" value="" name="s" />
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>                                                                                    </div>
+                                        
+                                            <div class="logo image">
+                                                <a href="https://modafinilxl.com/" rel="home">
+                                                    <span class="helper"></span><img src="https://modafinilxl.com/wp-content/uploads/2017/11/modafinilxl-bitcoin-logo.png" style="max-width: 255px;" alt="ModafinilXL"/></a>
+                                            </div>
+                                            
+                                                <div class="cg-announcements">
+                                                    <div class="divider"></div>
+                                                    <ul class="cg-show-announcements">
+                                                        		<li><p>Buy Modafinil with confidence. We offer full refunds and 100% delivery guarantee!</p>
+</li>
+				<li><p>Enjoy free express shipping on all orders over $180</p>
+</li>
+				<li><p>Modafinil Online Sale! 300 Modvigil tablets at <a href="https://modafinilxl.com/buy/modvigil-200-mg-x-300-pills/">50% off</a></p>
+</li>
+				<li><p>We ship all orders today, within 2 hours! Get your tracking number within 72 hours.</p>
+</li>
+				<li><p>Try them all for free! Free trial pack is already in your <a href="https://modafinilxl.com/cart/">cart &gt;</a></p>
+</li>
+				<li><p>Estimated express delivery date: Saturday 12 Aug </p>
+</li>
+		                                                    </ul>
+                                                </div>
+
+                                                                                                                        </div>
+                                </div><!--/container -->
+                            </div><!--/row -->
+                        </div><!--/cg-logo-inner-cart-wrap -->
+                    </div><!--/cg-logo-cart-wrap -->
+                </div><!--/container -->
+            </div><!--/cg-menu-below -->
+            
+            <div class="cg-primary-menu cg-wp-menu-wrapper cg-primary-menu-below-wrapper">
+                <div class="container">
+                    <div class="row">
+                        <div class="container">
+                                                            <div class="cg-main-menu"><ul id="menu-primary-menu" class="menu"><li id="menu-item-67242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-67242"><a target="_self" href="https://modafinilxl.com/buy-modafinil-online-with-bitcoin/">Smart Drugs</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Smart Drugs</span></span></div><ul class="cg-menu-ul">
+	<li id="menu-item-497090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497090"><a href="https://modafinilxl.com/domestic-usa-usps-delivery/">Domestic US Products 🇺🇸</a></li>
+	<li id="menu-item-551431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551431"><a href="https://modafinilxl.com/buy-modaxl-pills-online/">New! ModaXL 200mg 👑</a></li>
+	<li id="menu-item-551432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551432"><a href="https://modafinilxl.com/buy-armodaxl-pills-online/">New! ArmodaXL 150mg 👑</a></li>
+	<li id="menu-item-171266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171266"><a target="_self" href="https://modafinilxl.com/sublingual-modafil-md-200mg/">Sublingual Modafil MD ⚡</a></li>
+	<li id="menu-item-497031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497031"><a href="https://modafinilxl.com/buy-modavinil-pills-online/">Modavinil 200mg</a></li>
+	<li id="menu-item-497032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497032"><a href="https://modafinilxl.com/buy-armodavinil-tablets-online/">Armodavinil 150mg</a></li>
+	<li id="menu-item-67245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67245"><a target="_self" href="https://modafinilxl.com/buy-modvigil-200-by-hab-pharma/">Modvigil 200mg ⭐</a></li>
+	<li id="menu-item-67246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67246"><a target="_self" href="https://modafinilxl.com/artvigil-150-by-hab-pharma/">Artvigil 150mg ⭐</a></li>
+	<li id="menu-item-553509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-553509"><a href="https://modafinilxl.com/buy-extra-strong-artvigil-250mg-online/">Strong Artvigil 250mg</a></li>
+	<li id="menu-item-67244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67244"><a target="_self" href="https://modafinilxl.com/buy-modalert-online/">Modalert 200mg 💰</a></li>
+	<li id="menu-item-158805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158805"><a target="_self" href="https://modafinilxl.com/waklert-150-by-sun-pharma/">Waklert 150mg 💰</a></li>
+	<li id="menu-item-564825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-564825"><a href="https://modafinilxl.com/buy-modactive-online/">Modactive 200mg</a></li>
+	<li id="menu-item-486840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-486840"><a href="https://modafinilxl.com/modawake/">Modawake 200mg</a></li>
+	<li id="menu-item-67600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67600"><a target="_self" href="https://modafinilxl.com/buy-modafresh-200mg-cheap/">Modafresh 200mg</a></li>
+	<li id="menu-item-157132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157132"><a target="_self" href="https://modafinilxl.com/buy-modaheal-200-mg-otc/">Modaheal 200mg</a></li>
+	<li id="menu-item-497033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497033"><a href="https://modafinilxl.com/buy-vilafinil-200mg-generic-modafinil/">Vilafinil 200mg</a></li>
+	<li id="menu-item-464169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-464169"><a target="_self" href="https://modafinilxl.com/ed-viagra/">ED Pills &#038; Hair Loss 🍆</a></li>
+</ul></div></div>
+</li>
+<li id="menu-item-551430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-551430"><a href="https://modafinilxl.com/buy/modaxl-armodaxl-superior-combo-pack/">Combo</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Combo</span></span></div><ul class="cg-menu-ul">
+	<li id="menu-item-551429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551429"><a href="https://modafinilxl.com/buy/modaxl-armodaxl-superior-combo-pack/">XL Combo Pack (All-in-one) 👑</a></li>
+	<li id="menu-item-164943" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-164943"><a target="_self" href="https://modafinilxl.com/buy/modavinil-armodavinil-modafil-md-premium-combo-pack/">Modavinil Combo Pack</a></li>
+	<li id="menu-item-67243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67243"><a target="_self" href="https://modafinilxl.com/buy/modafinil-armodafinil-combo-pack/">Low-Cost Combo Pack ⭐</a></li>
+	<li id="menu-item-551433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551433"><a href="https://modafinilxl.com/buy/modalert-waklert-combo-pack/">Sun Pharma Combo Pack</a></li>
+</ul></div></div>
+</li>
+<li id="menu-item-67016" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-67016"><a target="_self" href="https://modafinilxl.com/buy/free-modafinil-samples/">Freebies</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Freebies</span></span></div><ul class="cg-menu-ul">
+	<li id="menu-item-67019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67019"><a target="_self" href="https://modafinilxl.com/buy/free-modafinil-samples/">Free Modafinil Samples</a></li>
+	<li id="menu-item-67017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67017"><a target="_self" href="https://modafinilxl.com/buy/free-armodafinil-samples/">Free Armodafinil Samples</a></li>
+</ul></div></div>
+</li>
+<li id="menu-item-431257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-431257"><a target="_self" href="https://modafinilxl.com/reliable-vendor-reviews/">Reviews</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Reviews</span></span></div><ul class="cg-menu-ul">
+	<li id="menu-item-430888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430888"><a target="_self" href="https://modafinilxl.com/reliable-vendor-reviews/">ModafinilXL Reviews 😃</a></li>
+	<li id="menu-item-141717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141717"><a target="_self" href="https://modafinilxl.com/modvigil-reviews-ratings/">Modvigil Reviews</a></li>
+	<li id="menu-item-141719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141719"><a target="_self" href="https://modafinilxl.com/modalert-reviews-ratings/">Modalert Reviews</a></li>
+	<li id="menu-item-141722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141722"><a target="_self" href="https://modafinilxl.com/provigil-reviews-ratings/">Provigil Reviews</a></li>
+	<li id="menu-item-141721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141721"><a target="_self" href="https://modafinilxl.com/modafinil-reviews-ratings/">Modafinil Reviews</a></li>
+	<li id="menu-item-141723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141723"><a target="_self" href="https://modafinilxl.com/artvigil-reviews-ratings/">Artvigil Reviews</a></li>
+	<li id="menu-item-141718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141718"><a target="_self" href="https://modafinilxl.com/waklert-reviews-ratings/">Waklert Reviews</a></li>
+	<li id="menu-item-141716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141716"><a target="_self" href="https://modafinilxl.com/nuvigil-reviews-ratings/">Nuvigil Reviews</a></li>
+	<li id="menu-item-141720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141720"><a target="_self" href="https://modafinilxl.com/armodafinil-reviews-ratings/">Armodafinil Reviews</a></li>
+	<li id="menu-item-185443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185443"><a target="_self" href="https://modafinilxl.com/press-about-us/">Overviews &#038; Rating</a></li>
+</ul></div></div>
+</li>
+<li id="menu-item-67437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-67437"><a target="_self" href="https://modafinilxl.com/compare-provigil-vs-modalert-modvigil/">Info</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Info</span></span></div><ul class="cg-menu-ul">
+	<li id="menu-item-132049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132049"><a target="_self" href="https://modafinilxl.com/modafinil-side-effects/">Modafinil Side Effects</a></li>
+	<li id="menu-item-133030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133030"><a target="_self" href="https://modafinilxl.com/armodafinil-side-effects/">Armodafinil Side Effects</a></li>
+	<li id="menu-item-141905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141905"><a target="_self" href="https://modafinilxl.com/modafinil-discovery-history/">Modafinil Discovery</a></li>
+	<li id="menu-item-141904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141904"><a target="_self" href="https://modafinilxl.com/armodafinil-discovery-history/">Armodafinil Discovery</a></li>
+	<li id="menu-item-141923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141923"><a target="_self" href="https://modafinilxl.com/modafinil-armodafinil-adrafinil-comparison/">Modafinil vs Armodafinil</a></li>
+	<li id="menu-item-132052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132052"><a target="_self" href="https://modafinilxl.com/compare-provigil-vs-modalert-modvigil/">Provigil vs Modalert vs Modvigil</a></li>
+	<li id="menu-item-143123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143123"><a target="_self" href="https://modafinilxl.com/what-is-provigil/">What Is Provigil?</a></li>
+</ul></div></div>
+</li>
+<li id="menu-item-67240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-67240"><a title="FAQ" target="_blank" rel="nofollow noopener noreferrer" href="https://support.modafinilxl.com/hc/en-us/">FAQ</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">FAQ</span></span></div><ul class="cg-menu-ul">
+	<li id="menu-item-435871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435871"><a target="_self" href="https://modafinilxl.com/faq-billing-credit-card/">Billing &#038; Credit Card FAQ 💳</a></li>
+	<li id="menu-item-138971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138971"><a target="_self" href="https://modafinilxl.com/shipping/">Shipping FAQ 📦</a></li>
+	<li id="menu-item-436347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436347"><a target="_self" href="https://modafinilxl.com/modafinil-faq-most-common-issues/">Product FAQ 💊</a></li>
+	<li id="menu-item-67789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67789"><a target="_self" href="https://modafinilxl.com/tracking/">Order Tracking 🚚</a></li>
+	<li id="menu-item-432998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432998"><a target="_self" href="https://modafinilxl.com/coupons-discounts-promo-codes/">ModafinilXL Coupons 🏷️</a></li>
+	<li id="menu-item-145314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145314"><a target="_self" href="https://modafinilxl.com/pay-with-bitcoin/">Pay with Bitcoin &#038; Save 20%</a></li>
+	<li id="menu-item-141146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141146"><a target="_self" href="https://modafinilxl.com/my-account/">My Account</a></li>
+	<li id="menu-item-427145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427145"><a target="_self" href="https://modafinilxl.com/store-credit/">Store Credit</a></li>
+	<li id="menu-item-141642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141642"><a target="_self" href="https://modafinilxl.com/top-modafinil-affiliate-program-best/">Affiliate Program</a></li>
+	<li id="menu-item-66992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66992"><a target="_self" href="https://modafinilxl.com/policies/">Refund Policy</a></li>
+	<li id="menu-item-142002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142002"><a target="_self" href="https://modafinilxl.com/affiliate-area/">Affiliate Area</a></li>
+	<li id="menu-item-103683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103683"><a title="Submit a Request" target="_blank" rel="nofollow noopener noreferrer" href="https://support.modafinilxl.com/hc/en-us/requests/new">Submit a Request</a></li>
+</ul></div></div>
+</li>
+<li id="menu-item-100919" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100919"><a title="Help Center" target="_blank" rel="nofollow noopener noreferrer" href="https://support.modafinilxl.com/hc/en-us/requests/new">Help</a></li>
+<li id="menu-item-511214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511214"><a href="https://modafinilxl.com/cart/">Cart</a></li>
+<li id="menu-item-104316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104316"><a target="_self" href="https://modafinilxl.com/checkout/">Checkout</a></li>
+<li id="menu-item-145313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145313"><a target="_self" href="https://modafinilxl.com/pay-with-bitcoin/">20% OFF</a></li>
+</ul></div>                                                                                                                            <div class="cart-wrap">
+                                                                                    
+		<ul class="tiny-cart">
+			<li>
+				<a class="cart_dropdown_link cart-parent" href="https://modafinilxl.com/cart/" title="View your shopping cart">
+					<div class="cg-header-cart-icon-wrap">
+						 
+							<div class="icon cg-icon-shopping-1"></div>
+										<span class="cg-cart-count">2</span>
+					</div>
+					<span class='cart_subtotal'><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span></span>
+				</a>
+				<ul class="cart_list"><li class="cart_list_product">							<div class="container">
+								<div class="row">
+									<div class="col-lg-2">
+										<span data-cart_item="6c4c9c97bc5a1a7af8198dcfc303bdb5" class="my-cg-cart-remove" title="Remove this item">x</span>									</div>
+									<div class="col-lg-10">
+
+										<a href="https://modafinilxl.com/buy/free-armodafinil-samples/"><img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Free Armodafinil Samples 10 x Artvigil 150mg" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples.png 500w, https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-231x300.png 231w" sizes="(max-width: 220px) 100vw, 220px" />Order Free Artvigil 150 mg Armodafinil 10 Samples Online</a><span class="quantities">1 &times; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span></span>									</div>
+								</div>
+							</div>
+						</li>
+
+							<li class="cart_list_product">							<div class="container">
+								<div class="row">
+									<div class="col-lg-2">
+										<span data-cart_item="a2e624045eb47b256fca7ac2d1e7ff1f" class="my-cg-cart-remove" title="Remove this item">x</span>									</div>
+									<div class="col-lg-10">
+
+										<a href="https://modafinilxl.com/buy/free-modafinil-samples/"><img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Free Modafinil Samples 10 x Modalert 200mg" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples.png 500w, https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-231x300.png 231w" sizes="(max-width: 220px) 100vw, 220px" />Generic Modalert 200mg Modafinil 10 Samples Pack from India</a><span class="quantities">1 &times; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span></span>									</div>
+								</div>
+							</div>
+						</li>
+
+							<li class="total"><strong>Subtotal: </strong><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span><li class="buttons"><a href="https://modafinilxl.com/cart/" class="button">View Cart</a> <a href="https://modafinilxl.com/checkout/" class="button checkout">Checkout</a></li></ul>		</li>
+		</ul>
+		                                                                            </div>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- close primary menu below logo layout -->
+                            <!--FIXED -->
+                <div class="cg-header-fixed-wrapper">
+                    <div class="cg-header-fixed">
+                        <div class="container">
+                            <div class="cg-wp-menu-wrapper">
+                                <div class="cg-primary-menu">
+                                    <div class="row">
+                                        <div class="container">
+                                            <div class="cg-wp-menu-wrapper">
+                                                                                                                                                            <div class="cart-wrap">
+                                                                                                                            
+		<ul class="tiny-cart">
+			<li>
+				<a class="cart_dropdown_link cart-parent" href="https://modafinilxl.com/cart/" title="View your shopping cart">
+					<div class="cg-header-cart-icon-wrap">
+						 
+							<div class="icon cg-icon-shopping-1"></div>
+										<span class="cg-cart-count">2</span>
+					</div>
+					<span class='cart_subtotal'><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span></span>
+				</a>
+				<ul class="cart_list"><li class="cart_list_product">							<div class="container">
+								<div class="row">
+									<div class="col-lg-2">
+										<span data-cart_item="6c4c9c97bc5a1a7af8198dcfc303bdb5" class="my-cg-cart-remove" title="Remove this item">x</span>									</div>
+									<div class="col-lg-10">
+
+										<a href="https://modafinilxl.com/buy/free-armodafinil-samples/"><img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Free Armodafinil Samples 10 x Artvigil 150mg" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples.png 500w, https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-231x300.png 231w" sizes="(max-width: 220px) 100vw, 220px" />Order Free Artvigil 150 mg Armodafinil 10 Samples Online</a><span class="quantities">1 &times; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span></span>									</div>
+								</div>
+							</div>
+						</li>
+
+							<li class="cart_list_product">							<div class="container">
+								<div class="row">
+									<div class="col-lg-2">
+										<span data-cart_item="a2e624045eb47b256fca7ac2d1e7ff1f" class="my-cg-cart-remove" title="Remove this item">x</span>									</div>
+									<div class="col-lg-10">
+
+										<a href="https://modafinilxl.com/buy/free-modafinil-samples/"><img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Free Modafinil Samples 10 x Modalert 200mg" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples.png 500w, https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-231x300.png 231w" sizes="(max-width: 220px) 100vw, 220px" />Generic Modalert 200mg Modafinil 10 Samples Pack from India</a><span class="quantities">1 &times; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span></span>									</div>
+								</div>
+							</div>
+						</li>
+
+							<li class="total"><strong>Subtotal: </strong><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span><li class="buttons"><a href="https://modafinilxl.com/cart/" class="button">View Cart</a> <a href="https://modafinilxl.com/checkout/" class="button checkout">Checkout</a></li></ul>		</li>
+		</ul>
+		                                                                                                                    </div>
+                                                                                                    
+                                                
+                                                    <div class="logo image">
+                                                        <a href="https://modafinilxl.com/" rel="home" style="max-width: 255px;">
+                                                            <span class="helper"></span><img src="https://modafinilxl.com/wp-content/uploads/2017/11/modafinilxl-bitcoin-logo.png" alt="ModafinilXL"/></a>
+                                                    </div>
+                                                                                                                                                    <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-67242"><a target="_self" href="https://modafinilxl.com/buy-modafinil-online-with-bitcoin/">Smart Drugs</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Smart Drugs</span></span></div><ul class="cg-menu-ul">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497090"><a href="https://modafinilxl.com/domestic-usa-usps-delivery/">Domestic US Products 🇺🇸</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551431"><a href="https://modafinilxl.com/buy-modaxl-pills-online/">New! ModaXL 200mg 👑</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551432"><a href="https://modafinilxl.com/buy-armodaxl-pills-online/">New! ArmodaXL 150mg 👑</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171266"><a target="_self" href="https://modafinilxl.com/sublingual-modafil-md-200mg/">Sublingual Modafil MD ⚡</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497031"><a href="https://modafinilxl.com/buy-modavinil-pills-online/">Modavinil 200mg</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497032"><a href="https://modafinilxl.com/buy-armodavinil-tablets-online/">Armodavinil 150mg</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67245"><a target="_self" href="https://modafinilxl.com/buy-modvigil-200-by-hab-pharma/">Modvigil 200mg ⭐</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67246"><a target="_self" href="https://modafinilxl.com/artvigil-150-by-hab-pharma/">Artvigil 150mg ⭐</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-553509"><a href="https://modafinilxl.com/buy-extra-strong-artvigil-250mg-online/">Strong Artvigil 250mg</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67244"><a target="_self" href="https://modafinilxl.com/buy-modalert-online/">Modalert 200mg 💰</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158805"><a target="_self" href="https://modafinilxl.com/waklert-150-by-sun-pharma/">Waklert 150mg 💰</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-564825"><a href="https://modafinilxl.com/buy-modactive-online/">Modactive 200mg</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-486840"><a href="https://modafinilxl.com/modawake/">Modawake 200mg</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67600"><a target="_self" href="https://modafinilxl.com/buy-modafresh-200mg-cheap/">Modafresh 200mg</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157132"><a target="_self" href="https://modafinilxl.com/buy-modaheal-200-mg-otc/">Modaheal 200mg</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497033"><a href="https://modafinilxl.com/buy-vilafinil-200mg-generic-modafinil/">Vilafinil 200mg</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-464169"><a target="_self" href="https://modafinilxl.com/ed-viagra/">ED Pills &#038; Hair Loss 🍆</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-551430"><a href="https://modafinilxl.com/buy/modaxl-armodaxl-superior-combo-pack/">Combo</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Combo</span></span></div><ul class="cg-menu-ul">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551429"><a href="https://modafinilxl.com/buy/modaxl-armodaxl-superior-combo-pack/">XL Combo Pack (All-in-one) 👑</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-164943"><a target="_self" href="https://modafinilxl.com/buy/modavinil-armodavinil-modafil-md-premium-combo-pack/">Modavinil Combo Pack</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67243"><a target="_self" href="https://modafinilxl.com/buy/modafinil-armodafinil-combo-pack/">Low-Cost Combo Pack ⭐</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551433"><a href="https://modafinilxl.com/buy/modalert-waklert-combo-pack/">Sun Pharma Combo Pack</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-67016"><a target="_self" href="https://modafinilxl.com/buy/free-modafinil-samples/">Freebies</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Freebies</span></span></div><ul class="cg-menu-ul">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67019"><a target="_self" href="https://modafinilxl.com/buy/free-modafinil-samples/">Free Modafinil Samples</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67017"><a target="_self" href="https://modafinilxl.com/buy/free-armodafinil-samples/">Free Armodafinil Samples</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-431257"><a target="_self" href="https://modafinilxl.com/reliable-vendor-reviews/">Reviews</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Reviews</span></span></div><ul class="cg-menu-ul">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430888"><a target="_self" href="https://modafinilxl.com/reliable-vendor-reviews/">ModafinilXL Reviews 😃</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141717"><a target="_self" href="https://modafinilxl.com/modvigil-reviews-ratings/">Modvigil Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141719"><a target="_self" href="https://modafinilxl.com/modalert-reviews-ratings/">Modalert Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141722"><a target="_self" href="https://modafinilxl.com/provigil-reviews-ratings/">Provigil Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141721"><a target="_self" href="https://modafinilxl.com/modafinil-reviews-ratings/">Modafinil Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141723"><a target="_self" href="https://modafinilxl.com/artvigil-reviews-ratings/">Artvigil Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141718"><a target="_self" href="https://modafinilxl.com/waklert-reviews-ratings/">Waklert Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141716"><a target="_self" href="https://modafinilxl.com/nuvigil-reviews-ratings/">Nuvigil Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141720"><a target="_self" href="https://modafinilxl.com/armodafinil-reviews-ratings/">Armodafinil Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185443"><a target="_self" href="https://modafinilxl.com/press-about-us/">Overviews &#038; Rating</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-67437"><a target="_self" href="https://modafinilxl.com/compare-provigil-vs-modalert-modvigil/">Info</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">Info</span></span></div><ul class="cg-menu-ul">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132049"><a target="_self" href="https://modafinilxl.com/modafinil-side-effects/">Modafinil Side Effects</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133030"><a target="_self" href="https://modafinilxl.com/armodafinil-side-effects/">Armodafinil Side Effects</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141905"><a target="_self" href="https://modafinilxl.com/modafinil-discovery-history/">Modafinil Discovery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141904"><a target="_self" href="https://modafinilxl.com/armodafinil-discovery-history/">Armodafinil Discovery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141923"><a target="_self" href="https://modafinilxl.com/modafinil-armodafinil-adrafinil-comparison/">Modafinil vs Armodafinil</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132052"><a target="_self" href="https://modafinilxl.com/compare-provigil-vs-modalert-modvigil/">Provigil vs Modalert vs Modvigil</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143123"><a target="_self" href="https://modafinilxl.com/what-is-provigil/">What Is Provigil?</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-67240"><a title="FAQ" target="_blank" rel="nofollow noopener noreferrer" href="https://support.modafinilxl.com/hc/en-us/">FAQ</a>
+<div class=cg-submenu-ddown><div class='container'>
+<div class="cg-menu-img"><span class="cg-menu-title-wrap"><span class="cg-menu-title">FAQ</span></span></div><ul class="cg-menu-ul">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435871"><a target="_self" href="https://modafinilxl.com/faq-billing-credit-card/">Billing &#038; Credit Card FAQ 💳</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138971"><a target="_self" href="https://modafinilxl.com/shipping/">Shipping FAQ 📦</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436347"><a target="_self" href="https://modafinilxl.com/modafinil-faq-most-common-issues/">Product FAQ 💊</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67789"><a target="_self" href="https://modafinilxl.com/tracking/">Order Tracking 🚚</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432998"><a target="_self" href="https://modafinilxl.com/coupons-discounts-promo-codes/">ModafinilXL Coupons 🏷️</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145314"><a target="_self" href="https://modafinilxl.com/pay-with-bitcoin/">Pay with Bitcoin &#038; Save 20%</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141146"><a target="_self" href="https://modafinilxl.com/my-account/">My Account</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427145"><a target="_self" href="https://modafinilxl.com/store-credit/">Store Credit</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141642"><a target="_self" href="https://modafinilxl.com/top-modafinil-affiliate-program-best/">Affiliate Program</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66992"><a target="_self" href="https://modafinilxl.com/policies/">Refund Policy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142002"><a target="_self" href="https://modafinilxl.com/affiliate-area/">Affiliate Area</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103683"><a title="Submit a Request" target="_blank" rel="nofollow noopener noreferrer" href="https://support.modafinilxl.com/hc/en-us/requests/new">Submit a Request</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100919"><a title="Help Center" target="_blank" rel="nofollow noopener noreferrer" href="https://support.modafinilxl.com/hc/en-us/requests/new">Help</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511214"><a href="https://modafinilxl.com/cart/">Cart</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104316"><a target="_self" href="https://modafinilxl.com/checkout/">Checkout</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145313"><a target="_self" href="https://modafinilxl.com/pay-with-bitcoin/">20% OFF</a></li>
+</ul></div>                                                                                            </div><!--/cg-wp-menu-wrapper -->
+                                        </div><!--/container -->
+                                    </div><!--/row -->
+                                </div><!--/cg-primary-menu -->
+                            </div><!--/cg-wp-menu-wrapper -->
+                        </div><!--/container -->
+                    </div><!--/cg-header-fixed -->
+                </div><!--/cg-header-fixed-wrapper. -->
+                                    <div id="mobile-menu">
+                <a id="skip" href="#cg-page-wrap" class="hidden" title="Skip to content">Skip to content</a>
+                <ul id="mobile-cg-mobile-menu" class="mobile-menu-wrap"><li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item"><a target="_self" href="https://modafinilxl.com/buy-modafinil-online-with-bitcoin/"><span>Smart Drugs</span></a>
+<ul class="sub-menu">
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/domestic-usa-usps-delivery/"><span>Domestic US Products 🇺🇸</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/buy-modaxl-pills-online/"><span>New! ModaXL 200mg 👑</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/buy-armodaxl-pills-online/"><span>New! ArmodaXL 150mg 👑</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/sublingual-modafil-md-200mg/"><span>Sublingual Modafil MD ⚡</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/buy-modavinil-pills-online/"><span>Modavinil 200mg</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/buy-armodavinil-tablets-online/"><span>Armodavinil 150mg</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/buy-modvigil-200-by-hab-pharma/"><span>Modvigil 200mg ⭐</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/artvigil-150-by-hab-pharma/"><span>Artvigil 150mg ⭐</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/buy-extra-strong-artvigil-250mg-online/"><span>Strong Artvigil 250mg</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/buy-modalert-online/"><span>Modalert 200mg 💰</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/waklert-150-by-sun-pharma/"><span>Waklert 150mg 💰</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/buy-modactive-online/"><span>Modactive 200mg</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/modawake/"><span>Modawake 200mg</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/buy-modafresh-200mg-cheap/"><span>Modafresh 200mg</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/buy-modaheal-200-mg-otc/"><span>Modaheal 200mg</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/buy-vilafinil-200mg-generic-modafinil/"><span>Vilafinil 200mg</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/ed-viagra/"><span>ED Pills &#038; Hair Loss 🍆</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item"><a href="https://modafinilxl.com/buy/modaxl-armodaxl-superior-combo-pack/"><span>Combo</span></a>
+<ul class="sub-menu">
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/buy/modaxl-armodaxl-superior-combo-pack/"><span>XL Combo Pack (All-in-one) 👑</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/buy/modavinil-armodavinil-modafil-md-premium-combo-pack/"><span>Modavinil Combo Pack</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/buy/modafinil-armodafinil-combo-pack/"><span>Low-Cost Combo Pack ⭐</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/buy/modalert-waklert-combo-pack/"><span>Sun Pharma Combo Pack</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item"><a target="_self" href="https://modafinilxl.com/buy/free-modafinil-samples/"><span>Freebies</span></a>
+<ul class="sub-menu">
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/buy/free-modafinil-samples/"><span>Free Modafinil Samples</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/buy/free-armodafinil-samples/"><span>Free Armodafinil Samples</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item"><a target="_self" href="https://modafinilxl.com/reliable-vendor-reviews/"><span>Reviews</span></a>
+<ul class="sub-menu">
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/reliable-vendor-reviews/"><span>ModafinilXL Reviews 😃</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/modvigil-reviews-ratings/"><span>Modvigil Reviews</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/modalert-reviews-ratings/"><span>Modalert Reviews</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/provigil-reviews-ratings/"><span>Provigil Reviews</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/modafinil-reviews-ratings/"><span>Modafinil Reviews</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/artvigil-reviews-ratings/"><span>Artvigil Reviews</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/waklert-reviews-ratings/"><span>Waklert Reviews</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/nuvigil-reviews-ratings/"><span>Nuvigil Reviews</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/armodafinil-reviews-ratings/"><span>Armodafinil Reviews</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/press-about-us/"><span>Overviews &#038; Rating</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item"><a target="_self" href="https://modafinilxl.com/compare-provigil-vs-modalert-modvigil/"><span>Info</span></a>
+<ul class="sub-menu">
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/modafinil-side-effects/"><span>Modafinil Side Effects</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/armodafinil-side-effects/"><span>Armodafinil Side Effects</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/modafinil-discovery-history/"><span>Modafinil Discovery</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/armodafinil-discovery-history/"><span>Armodafinil Discovery</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/modafinil-armodafinil-adrafinil-comparison/"><span>Modafinil vs Armodafinil</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/compare-provigil-vs-modalert-modvigil/"><span>Provigil vs Modalert vs Modvigil</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/what-is-provigil/"><span>What Is Provigil?</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item"><a title="FAQ" target="_blank" rel="nofollow noopener noreferrer" href="https://support.modafinilxl.com/hc/en-us/"><span>FAQ</span></a>
+<ul class="sub-menu">
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/faq-billing-credit-card/"><span>Billing &#038; Credit Card FAQ 💳</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/shipping/"><span>Shipping FAQ 📦</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/modafinil-faq-most-common-issues/"><span>Product FAQ 💊</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/tracking/"><span>Order Tracking 🚚</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/coupons-discounts-promo-codes/"><span>ModafinilXL Coupons 🏷️</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/pay-with-bitcoin/"><span>Pay with Bitcoin &#038; Save 20%</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://modafinilxl.com/my-account/"><span>My Account</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/store-credit/"><span>Store Credit</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/top-modafinil-affiliate-program-best/"><span>Affiliate Program</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/policies/"><span>Refund Policy</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/affiliate-area/"><span>Affiliate Area</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Submit a Request" target="_blank" rel="nofollow noopener noreferrer" href="https://support.modafinilxl.com/hc/en-us/requests/new"><span>Submit a Request</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Help Center" target="_blank" rel="nofollow noopener noreferrer" href="https://support.modafinilxl.com/hc/en-us/requests/new"><span>Help</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://modafinilxl.com/cart/"><span>Cart</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/checkout/"><span>Checkout</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://modafinilxl.com/pay-with-bitcoin/"><span>20% OFF</span></a></li>
+</ul>            </div><!--/mobile-menu -->
+            
+            <div id="cg-page-wrap" class="site">
+                                                                                            
+                
+        <div class="breadcrumb-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div><p id="breadcrumbs"><span><span><a href="https://modafinilxl.com/">Home</a></span> &gt; <span class="breadcrumb_last" aria-current="page">Tracking</span></span></p></div>
+                </div>
+            </div>
+        </div>
+<div class="content-area">
+            <article id="post-67773" class="post-67773 page type-page status-publish">
+    	
+	    <div class="entry-content">
+        <section class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h2>Track Shipment Status Using Order Number</h2>
+		<style>
+							.col.tracking-detail .tracking_number_wrap a, .tracking_event_tab_view .view_more_class {
+					color: #2271b1;
+				}
+				span.copy_tracking_page.trackship-tip svg {
+					fill: #2271b1;
+				}
+				div.shipment-header .ts_from_input:checked + label {
+					color: #2271b1 !important;
+					border-bottom: 3px solid #2271b1;
+				}
+																body .col.tracking-detail, .shipment-header, .tracking-detail .heading_panel, .tracking-detail .content_panel {
+					background: #fafafa !important;
+				}
+										body .tracking-detail .shipment-content, body .tracking-detail .shipment-content h4, .shipment-header label.ts_from_label {
+					color: #333;
+				}				
+						.woocommerce-account.woocommerce-view-order .tracking-header span.wc_order_id {display: none;}
+							.trackship_branding {display:none;}
+					</style>
+						<div class="tracking-detail col  shipment_1" style="display:block;">
+					<div class="shipment-content">
+						<div class="tracking-header">
+	
+	<div class="tracking_number_wrap">
+
+		<div style="display: flex;">
+							<div class="provider_image_div" >
+					<img class="provider_image" src="https://modafinilxl.com/wp-content/uploads/ast-shipping-providers/usps.png?v=3.5.3">
+				</div>
+			
+			<div class="tracking_number_div">
+				<ul>
+					<li>
+						<span class="tracking_page_provider_name">USPS</span>
+													<a href="https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=RR230274675AE" target="blank"><strong>RR230274675AE</strong></a>	
+											</li>
+									</ul>
+			</div>
+		</div>
+
+		<div style="display: flex;flex-direction: column;">
+			<span class="wc_order_id">
+				Order 
+				<a href="https://modafinilxl.com/my-account/view-order/596540/" target="_blank">#322640M</a>
+			</span>
+					</div>
+	</div>
+	
+	<div class="shipment_status_heading in_transit">
+		In Transit	</div>
+			</div>
+		<div class="tracker-progress-bar tracking_icon_layout  t_layout_1">
+			<div class="progress in_transit">
+				<div class="progress-bar in_transit" style="width: 0;"></div>
+									<div class="progress-icon icon1"></div>
+					<div class="progress-icon icon2"></div>
+					<div class="progress-icon icon3"></div>
+					<div class="progress-icon icon4"></div>
+							</div>
+		</div>
+	
+<div class="tracking_event_tab_view">
+			<div data-label="tracking_events_details" class="heading_panel tracking_detail_label tracking_detail_label checked">
+			Shipment Progress			<span class="accordian-arrow right"></span>
+		</div>
+		<div class="content_panel tracking-details tracking_events_details">
+													<div class="tracking_details_by_date">
+										<ul class="timeline">
+													<li>
+								<strong>July 24, 2023 9:32 pm</strong>
+								<p>
+									Processed Through Facility - DUBAI,  - DUBAI								</p>
+							</li>
+													<li>
+								<strong>July 24, 2023 9:02 pm</strong>
+								<p>
+									Processed Through Facility - DUBAI,  - DUBAI								</p>
+							</li>
+													<li>
+								<strong>July 24, 2023 5:22 pm</strong>
+								<p>
+									Acceptance								</p>
+							</li>
+											</ul>	
+				</div>
+						</div>
+			<div data-label="product_details" class="heading_panel">
+			Items in this shipment			<span class="accordian-arrow right"></span>
+		</div>
+		<div class="content_panel product_details">		
+			<ul class="tpi_product_tracking_ul">
+				<li><img width="50" height="50" src="https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-100x100.png" class="attachment-50x50 size-50x50" alt="Free Armodafinil Samples 10 x Artvigil 150mg" /><span><a target="_blank" href=https://modafinilxl.com/buy/free-armodafinil-samples/>Order Free Artvigil 150 mg Armodafinil 10 Samples Online</a> x 1</span></li><li><img width="50" height="50" src="https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-100x100.png" class="attachment-50x50 size-50x50" alt="Free Modafinil Samples 10 x Modalert 200mg" /><span><a target="_blank" href=https://modafinilxl.com/buy/free-modafinil-samples/>Generic Modalert 200mg Modafinil 10 Samples Pack from India</a> x 1</span></li><li><img width="50" height="50" src="https://modafinilxl.com/wp-content/uploads/2016/03/Modafinil-Online-100-100x100.png" class="attachment-50x50 size-50x50" alt="Generic Provigil 200 mg x 100 Tablets" /><span><a target="_blank" href=https://modafinilxl.com/buy/modafinil-200-mg-x-100-pills/>Buy Modafinil 200 mg 100 Pills from India</a> x 1</span></li>			</ul>
+		
+		<style>
+		ul.tpi_product_tracking_ul {
+			list-style: none;
+		}
+		ul.tpi_product_tracking_ul li{
+			font-size: 14px;
+			margin: 0 0 5px;
+			border-bottom: 1px solid #ccc;
+			padding: 0 0 5px;
+		}
+		ul.tpi_product_tracking_ul li:last-child{
+			border-bottom: 0;
+			margin: 0;
+			padding: 0;
+		}
+		ul.tpi_product_tracking_ul li img{
+			vertical-align: middle;
+		}
+		ul.tpi_product_tracking_ul li span{
+			margin: 0px 0px 0 10px;
+			vertical-align: middle;
+		}
+		.tpi_products_heading{
+			margin-top: -10px;
+		}
+		</style>
+		</div>
+		</div>
+					</div>
+					<div class="trackship_branding">
+						<p><span>Powered by </span><a href="https://track.trackship.com/track/RR230274675AE" title="TrackShip" target="blank"><img src="https://modafinilxl.com/wp-content/plugins/trackship-for-woocommerce/assets/images/trackship-logo.png"></a></p>
+					</div>
+									</div>
+				
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h2>Track the Status of Your Shipment</h2>
+<p>Enter your tracking number below, click the Track button, and select one of the following options for the latest tracking updates. None of our shipments require a signature upon delivery. Your package will be left where it&#8217;s safe to do so. We will attempt to deliver your package to your mailbox.</p>
+<ul>
+<li>If your order has an FR suffix (LKxxxxxxxxxFR), please track it directly on the <strong><a href="https://tracking.asendia.com/">Asendia website</a></strong>. It will appear on the USPS website only when it arrives in the US. Packages shipped via Asendia pass through US Customs easily. However, they may not have real-time tracking updates. The standard route for this shipping option is Singapore to the USA via a sorting hub in France.</li>
+<li><span>If your order has an EA suffix (RRxxxxxxxxxAE), please track it directly on the </span><strong><a href="https://www.17track.net/en" target="_blank" rel="nofollow noopener noreferrer">17Track</a></strong><span> website;</span></li>
+<li><span>If your order is to the USA, check </span><strong><a href="https://tools.usps.com/go/" target="_blank" rel="noopener noreferrer">USPS Tracking</a></strong><span> first (LKxxxxxxxxxFR, LPxxxxxxxxxIN, RRxxxxxxxxxAE, or LTxxxxxxxxxSG). </span></li>
+<li><span>If your order has an SG suffix (LPxxxxxxxxxSG), please track it directly on the </span><strong><a href="https://www.singpost.com/track-items" target="_blank" rel="noopener nofollow noreferrer">SingPost</a></strong><span> website;</span></li>
+<li><span>If your order has an IN suffix (EAxxxxxxxxxIN or RMxxxxxxxxxIN), please track it directly on the </span><strong><a href="https://www.google.com/search?q=india+post+tracking" target="_blank" rel="nofollow noopener noreferrer">India Post</a></strong><span> website. If your order is to the UK, check <strong><a href="https://www.royalmail.com/track-your-item" target="_blank" rel="nofollow noopener noreferrer">Royal Mail</a></strong> first;</span></li>
+<li><span>If your order has an CH suffix (LPxxxxxxxxxCH), please track it directly on the </span><strong><a href="https://www.post.ch/en/receiving-mail/track-consignments?shortcut=https-www-post-ch-en-sending-parcels-track-and-trace" target="_blank" rel="nofollow noopener noreferrer">Swiss Post</a></strong><span> website;</span></li>
+<li><span>Once your order is in-country, please use your local governmental postal service for the best tracking updates. Additionally, you can track all of your shipments at </span><strong><a href="https://www.17track.net/en" target="_blank" rel="nofollow noopener noreferrer">17Track</a></strong><span>.</span></li>
+</ul>
+<div class="as-track-button" data-size="large" data-domain="track.aftership.com"></div>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>  
+    <div class="cg-strip cg-strip-wrap fade-in animate" style="background-color:#ca1a1d!important; height:550px; ">
+      <div class="cg-strip-bg" style="" ></div>
+        <div class="row">
+          <div style="width:70%"  class="cg-pos  valign-center halign-center" >
+            <div class="cg-strip-content cg-strip-327052896 light text-align-center" ><style> #fourk1{text-align:center}#fourk1 .fourk-icon{background-color: transparent}#fourk1 .fourk-icon:before{}#fourk1 .fourk-icon:after{}#fourk1 i{font-size:80px;line-height:80px;color:#ffffff}#fourk1 .fourk-icon.hovered i{}#fourk1 i{text-align: center;}#fourk1{margin-bottom: 20px;}</style>
+<div id='fourk1' class='fourk-icon-container'><div class='fourk-icon none none' data-hover-trigger='icon' ><i class='fa-truck'></i></div></div>
+<h2 style="text-align: center;">Tracking # Becomes Active When the Package Arrives in Your Country</h2>
+<p style="text-align: center;"><span style="color: #ffffff;">We&#8217;ll email you a tracking number within 72 hours of your order being shipped. You will receive email and SMS tracking notifications via Trackship, the most advanced package-tracking service in the online pharmacy industry. Tracking information is generally available within 5-7 business days after your package is shipped.</span></p>
+<p style="text-align: center;"><a class="wpb_button_a" title="Track Your Order" href="https://modafinilxl.aftership.com" rel="nofollow noopener noreferrer" target="_blank"><span class="wpb_button  wpb_wpb_button wpb_btn-medium see-through">Track Your Order</span></a>
+</div>
+          </div>
+        </div>
+    </div>
+  <div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h2 class="elementor-icon-box-title">Tracking Does Not Exist?</h2>
+<p style="text-align: left;">Order information <strong>may not appear in the tracking system until the shipment reaches your destination country</strong>, so sometimes you may see &#8220;Tracking details not found&#8221; or &#8220;Pre-shipment&#8221;. Packages sent via Asendia and India Post shipping options are usually not trackable all the way through, but instead simply pass through customs. Please allow 5-7 business days after receiving your tracking number to track your shipment. We&#8217;ll send you an additional tracking notification via email once your tracking number is live.</p>
+<div class="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_left-to-right wpb_start_animation">
+<div class="wpb_wrapper">
+<h2>Useful Links</h2>
+<p><a href="https://tools.usps.com/go/" target="_blank" rel="nofollow noopener noreferrer">USPS Tracking</a> <span>for all US orders (LPxxxxxxxxxIN, RRxxxxxxxxxAE, or LTxxxxxxxxxSG). If your order has an FR suffix (LKxxxxxxxxxFR), it will </span>appear on the USPS website only when it arrives in the US. Packages shipped via <a href="https://tracking.asendia.com/">Asendia</a> pass through US Customs easily. However, they may not have real-time tracking updates. The standard route for this shipping option is Singapore to the USA via a sorting hub in France.</p>
+<p><a href="https://auspost.com.au/mypost/track/" target="_blank" rel="nofollow noopener noreferrer">Australian Post Track</a> (LDxxxxxxxxxBE and LPxxxxxxxxxIN)</p>
+<p><a href="https://www.royalmail.com/track-your-item" target="_blank" rel="nofollow noopener noreferrer">Royal Mail Track &amp; Trace</a> (RMxxxxxxxxxIN)</p>
+<p><a href="https://tracking.asendia.com/" target="_blank" rel="nofollow noopener noreferrer">Asendia Website</a> (LKxxxxxxxxxFR).</p>
+<p><a href="https://www.singpost.com/track-items" target="_blank" rel="noopener nofollow noreferrer">SingPost</a> Website (LPxxxxxxxxxSG)</p>
+<p><a href="https://www.post.ch/en/receiving-mail/track-consignments?shortcut=https-www-post-ch-en-sending-parcels-track-and-trace" target="_blank" rel="nofollow noopener noreferrer">Swiss Post Tracking</a> (XXxxxxxxxxxCH)</p>
+<p><a href="http://modafinilxl.aftership.com/" target="_blank" rel="nofollow noopener noreferrer">Aftership Tracking Tool</a> &amp; <a href="https://www.17track.net/en" target="_blank" rel="nofollow noopener noreferrer">17Track</a> (worldwide)</p>
+<p><a href="https://modafinilxl.com/shipping/">Shipping FAQ</a></p>
+<p><a href="https://modafinilxl.com/policies/">Refund Policy</a></p>
+</div>
+</div>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h2>How to Track Your Item</h2>
+<div class="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_left-to-right wpb_start_animation">
+<div class="wpb_wrapper">
+<p><strong>Tip: Check your SPAM folder for order confirmation or tracking number</strong></p>
+<ul>
+<li>Go to the <a href="https://tools.usps.com/go/" target="_blank" rel="nofollow noopener noreferrer">USPS website</a> (USA) or use our own <a href="http://modafinilxl.aftership.com/" target="_blank" rel="nofollow noopener noreferrer">tracking tool</a> (worldwide)</li>
+<li>Enter your tracking number (e.g. EAxxxxxxxxxIN)</li>
+<li>Get tracking results. <a href="https://cutt.ly/usps-us" target="_blank" rel="nofollow noopener noreferrer">See how it works &gt;</a></li>
+</ul>
+<p>Please note that shipments sent via Regular Airmail (RMxxxxxxxxxIN) are NOT trackable and DO NOT require a signature.</p>
+<ul>
+<li>🇺🇸 The USA, 🇬🇧 the UK, 🇦🇺 Australia: Express delivery usually takes 7-12 business days while standard delivery takes 10-18 business days.</li>
+<li>🌍 Other countries: Express delivery takes 10-21 days while standard delivery takes 10-30 days.</li>
+</ul>
+<p>Customs clearance is an obligatory procedure for all the goods crossing a border between countries. The clearance usually takes 1-2 days but sometimes may take up to 7 business days if there is a delay at Customs so you may, therefore, experience a delay in receiving your items. While we make the effort to ensure all parcels pass through customs without issue (99.5% of our parcels go through 🇺🇸 the US, 🇬🇧 the UK &amp; 🇦🇺 Australia customs <a href="http://cli.re/usps/" target="_blank" rel="nofollow noopener noreferrer">smoothly</a>), individual countries have different criteria. In the unlikely event of your parcel gets lost or stuck at Customs for more than 2 weeks, we will reship it for free or give you a full refund if preferred. We also split bulk orders or large quantities (for example, 500 tablets) into several packages (300 tabs each) and ship them separately every 3-5 days in order to avoid any issues at Customs.</p>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_left-to-right wpb_start_animation">
+<div class="wpb_wrapper">
+<p>FYI: You can have peace of mind knowing that if for any reason your order doesn’t reach you within 30 days, we will reship it for free or provide a full refund with no questions asked. If you have any questions or comments, feel free to <a title="Contact Us" href="https://cutt.ly/ticketmxl" target="_blank" rel="nofollow noopener noreferrer">Contact us</a> or visit our <a title="Shipping FAQ" href="https://modafinilxl.com/shipping/" rel="nofollow">Shipping FAQ</a> page.</p>
+</div>
+</div>
+
+		</div>
+	</div>
+</div></div></div></div>
+</section>            </div><!-- .entry-content -->
+    <div class="container">
+            </div>
+</article><!-- #post-## -->
+        <div class="container">
+                    </div>
+    </div><!-- #primary -->
+
+<footer class="footercontainer" role="contentinfo">
+                        <div class="lightwrapper">
+                <div class="container">
+                    <div class="row">
+                        <div id="text-8" class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-nr-3 widget_text"><p class="widget-title">BUY MODAFINIL ONLINE</p>			<div class="textwidget"><br/><style> #fourk2{text-align:center}#fourk2 .fourk-icon{background-color: transparent}#fourk2 .fourk-icon:before{}#fourk2 .fourk-icon:after{}#fourk2 i{font-size:17px;line-height:17px;color:#ca1a1d}#fourk2 .fourk-icon.hovered i{}#fourk2 i{text-align: center;}#fourk2{float: left; margin-right: 8px;}</style>
+<div id='fourk2' class='fourk-icon-container'><div class='fourk-icon none none' data-hover-trigger='icon' ><i class='fa-check-sign'></i></div></div>Best place to buy Modafinil online<br/><br/>
+<style> #fourk3{text-align:center}#fourk3 .fourk-icon{background-color: transparent}#fourk3 .fourk-icon:before{}#fourk3 .fourk-icon:after{}#fourk3 i{font-size:17px;line-height:17px;color:#ca1a1d}#fourk3 .fourk-icon.hovered i{}#fourk3 i{text-align: center;}#fourk3{float: left; margin-right: 8px;}</style>
+<div id='fourk3' class='fourk-icon-container'><div class='fourk-icon none none' data-hover-trigger='icon' ><i class='fa-check-sign'></i></div></div>FDA-approved generic Modafinil brands<br/><br/>
+<style> #fourk4{text-align:center}#fourk4 .fourk-icon{background-color: transparent}#fourk4 .fourk-icon:before{}#fourk4 .fourk-icon:after{}#fourk4 i{font-size:17px;line-height:17px;color:#ca1a1d}#fourk4 .fourk-icon.hovered i{}#fourk4 i{text-align: center;}#fourk4{float: left; margin-right: 8px;}</style>
+<div id='fourk4' class='fourk-icon-container'><div class='fourk-icon none none' data-hover-trigger='icon' ><i class='fa-check-sign'></i></div></div>Fast 7 days shipping to the U.S.<br/><br/>
+<style> #fourk5{text-align:center}#fourk5 .fourk-icon{background-color: transparent}#fourk5 .fourk-icon:before{}#fourk5 .fourk-icon:after{}#fourk5 i{font-size:17px;line-height:17px;color:#ca1a1d}#fourk5 .fourk-icon.hovered i{}#fourk5 i{text-align: center;}#fourk5{float: left; margin-right: 8px;}</style>
+<div id='fourk5' class='fourk-icon-container'><div class='fourk-icon none none' data-hover-trigger='icon' ><i class='fa-check-sign'></i></div></div>Secure 256-bit SSL payment<br/><br/>
+<style> #fourk6{text-align:center}#fourk6 .fourk-icon{background-color: transparent}#fourk6 .fourk-icon:before{}#fourk6 .fourk-icon:after{}#fourk6 i{font-size:17px;line-height:17px;color:#ca1a1d}#fourk6 .fourk-icon.hovered i{}#fourk6 i{text-align: center;}#fourk6{float: left; margin-right: 8px;}</style>
+<div id='fourk6' class='fourk-icon-container'><div class='fourk-icon none none' data-hover-trigger='icon' ><i class='fa-check-sign'></i></div></div>No prescription needed<br/><br/>
+<style> #fourk7{text-align:center}#fourk7 .fourk-icon{background-color: transparent}#fourk7 .fourk-icon:before{}#fourk7 .fourk-icon:after{}#fourk7 i{font-size:17px;line-height:17px;color:#ca1a1d}#fourk7 .fourk-icon.hovered i{}#fourk7 i{text-align: center;}#fourk7{float: left; margin-right: 8px;}</style>
+<div id='fourk7' class='fourk-icon-container'><div class='fourk-icon none none' data-hover-trigger='icon' ><i class='fa-check-sign'></i></div></div>Discreet packaging<br/><br/>
+<style> #fourk8{text-align:center}#fourk8 .fourk-icon{background-color: transparent}#fourk8 .fourk-icon:before{}#fourk8 .fourk-icon:after{}#fourk8 i{font-size:17px;line-height:17px;color:#ca1a1d}#fourk8 .fourk-icon.hovered i{}#fourk8 i{text-align: center;}#fourk8{float: left; margin-right: 8px;}</style>
+<div id='fourk8' class='fourk-icon-container'><div class='fourk-icon none none' data-hover-trigger='icon' ><i class='fa-check-sign'></i></div></div>We love what we sell.<br/><br/>
+<style> #fourk9{text-align:center}#fourk9 .fourk-icon{background-color: transparent}#fourk9 .fourk-icon:before{}#fourk9 .fourk-icon:after{}#fourk9 i{font-size:17px;line-height:17px;color:#ca1a1d}#fourk9 .fourk-icon.hovered i{}#fourk9 i{text-align: center;}#fourk9{float: left; margin-right: 8px;}</style>
+<div id='fourk9' class='fourk-icon-container'><div class='fourk-icon none none' data-hover-trigger='icon' ><i class='fa-check-sign'></i></div></div>You will, too!</div>
+		</div><div id="woocommerce_products-2" class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-nr-3 woocommerce widget_products"><p class="widget-title">Bestsellers</p><ul class="product_list_widget"><li>
+	
+	<a href="https://modafinilxl.com/buy/armodaxl-150-mg-200-pills-online/">
+		<img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2022/11/armodaxl-blister-pack-150mg-200-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="ArmodaXL 150 mg x 200 Pills" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2022/11/armodaxl-blister-pack-150mg-200-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2022/11/armodaxl-blister-pack-150mg-200-231x300.png 231w, https://modafinilxl.com/wp-content/uploads/2022/11/armodaxl-blister-pack-150mg-200.png 500w" sizes="(max-width: 220px) 100vw, 220px" />		<span class="product-title">Buy ArmodaXL 150mg Armodafinil 200 Pills Online</span>
+	</a>
+
+				
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>600</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>249</bdi></span></ins>
+	</li>
+<li>
+	
+	<a href="https://modafinilxl.com/buy/modaxl-200-mg-200-pills-online/">
+		<img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2022/11/modaxl-blister-pack-200mg-200-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="ModaXL 200 mg x 200 Pills" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2022/11/modaxl-blister-pack-200mg-200-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2022/11/modaxl-blister-pack-200mg-200-231x300.png 231w, https://modafinilxl.com/wp-content/uploads/2022/11/modaxl-blister-pack-200mg-200.png 500w" sizes="(max-width: 220px) 100vw, 220px" />		<span class="product-title">Purchase ModaXL 200mg Modafinil 200 Pills Online</span>
+	</a>
+
+				
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>600</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>249</bdi></span></ins>
+	</li>
+<li>
+	
+	<a href="https://modafinilxl.com/buy/ed-combo/">
+		<img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2019/10/ed-combo-pack-levitra-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="ED Combo Pack Viagra" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2019/10/ed-combo-pack-levitra-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2019/10/ed-combo-pack-levitra-231x300.png 231w, https://modafinilxl.com/wp-content/uploads/2019/10/ed-combo-pack-levitra.png 500w" sizes="(max-width: 220px) 100vw, 220px" />		<span class="product-title">Order ED Tablets Combo Pack from India for Sale</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>129</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>1,199</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://modafinilxl.com/buy/modvigil-200-mg-x-200-pills/">
+		<img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2016/04/Modvigil200-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Modvigil 200 mg x 200 Pills" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2016/04/Modvigil200-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2016/04/Modvigil200.png 500w, https://modafinilxl.com/wp-content/uploads/2016/04/Modvigil200-231x300.png 231w" sizes="(max-width: 220px) 100vw, 220px" />		<span class="product-title">Order Modvigil 200 mg 200 Pills at a Good Price</span>
+	</a>
+
+				
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>600</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>199</bdi></span></ins>
+	</li>
+<li>
+	
+	<a href="https://modafinilxl.com/buy/modalert-200-mg-x-200-pills/">
+		<img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2016/04/Modalert200-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Modalert 200 mg x 200 Pills" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2016/04/Modalert200-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2016/04/Modalert200.png 500w, https://modafinilxl.com/wp-content/uploads/2016/04/Modalert200-231x300.png 231w" sizes="(max-width: 220px) 100vw, 220px" />		<span class="product-title">Buy Modalert 200 mg 200 Pills Online</span>
+	</a>
+
+				
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>600</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>249</bdi></span></ins>
+	</li>
+</ul></div><div id="woocommerce_products-5" class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-nr-3 woocommerce widget_products"><p class="widget-title">Free Trial Pack</p><ul class="product_list_widget"><li>
+	
+	<a href="https://modafinilxl.com/buy/free-modafinil-samples/">
+		<img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Free Modafinil Samples 10 x Modalert 200mg" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples.png 500w, https://modafinilxl.com/wp-content/uploads/2016/04/Modafinil-Free-Samples-231x300.png 231w" sizes="(max-width: 220px) 100vw, 220px" />		<span class="product-title">Generic Modalert 200mg Modafinil 10 Samples Pack from India</span>
+	</a>
+
+				
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span></ins>
+	</li>
+<li>
+	
+	<a href="https://modafinilxl.com/buy/free-armodafinil-samples/">
+		<img width="220" height="286" src="https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-220x286.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Free Armodafinil Samples 10 x Artvigil 150mg" decoding="async" srcset="https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-220x286.png 220w, https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples.png 500w, https://modafinilxl.com/wp-content/uploads/2016/04/Armodafinil-Free-Samples-231x300.png 231w" sizes="(max-width: 220px) 100vw, 220px" />		<span class="product-title">Order Free Artvigil 150 mg Armodafinil 10 Samples Online</span>
+	</a>
+
+				
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0</bdi></span></ins>
+	</li>
+</ul></div>                    </div><!-- /.row -->
+                </div><!-- /.container -->
+            </div><!-- /.lightwrapper -->
+            
+                        <div class="subfooter">
+                <div class="container">
+                    <div class="row">
+                        <div id="text-3" class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-nr-3 widget_text">			<div class="textwidget"><div class="vc_empty_space"   style="height: 36px"><span class="vc_empty_space_inner"></span></div></br><a href="https://modafinilxl.com" ><img src="https://modafinilxl.com/wp-content/uploads/2017/11/modafinilxl-bw-bitcoin.png" alt="ModafinilXL Logo" style="width:170px; margin-top:-18px" /></a>
+<div class="vc_empty_space"   style="height: 36px"><span class="vc_empty_space_inner"></span></div>
+<p>Buy Modafinil Online ツ Cheap Modalert Pharmacy</p><br/>
+<strong>Think Fast, Talk Smart, Stay Productive
+</strong><br/>
+<br/>
+At our Modafinil online pharmacy, we can offer much better value for your buck because our generic modafinil and armodafinil prices are based on manufacturing costs in India.
+<br/><br/>We are so confident in the power of our generic ModaXL (our bestseller with purest formula), Modvigil, Modafresh, Modaheal, Modalert, Vilafinil, ArmodaXL (fastest onset effects), Waklert, and Artvigil that we give away 20 samples for free with every order placed on ModafinilXL.
+<br/><br/><script src="https://widget.reviews.io/badge-modern/dist.js"></script>
+<div id="badge-230" style="max-width:230px;"></div>
+<script>
+    reviewsBadgeModern('badge-230', {
+    store: 'modafinilxl.com',
+    primaryClr: '#000000',
+    starsClr: '#000000'
+    });
+</script>
+<br/>
+<br/><div id="y-badges" class="yotpo yotpo-badge badge-init">&nbsp;</div>
+</div>
+		</div><div id="text-4" class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-nr-3 widget_text"><p class="widget-title">Smart Drugs &#038; More</p>			<div class="textwidget"><div class="row">
+
+<div class="col-xs-6 col-sm-6 col-md-6">
+<ul class="simple-links">
+<li><a href="https://modafinilxl.com/buy-modaxl-pills-online/">ModaXL 200 mg (PUREST)</a></li>
+<li><a href="https://modafinilxl.com/buy-modavinil-pills-online/">Modavinil 200 mg</a></li>
+<li><a href="https://modafinilxl.com/buy-modvigil-200-by-hab-pharma/">Modvigil 200 mg</a></li>
+<li><a href="https://modafinilxl.com/modawake/">Modawake 200 mg</a></li>
+<li><a href="https://modafinilxl.com/buy-modafresh-200mg-cheap/">Modafresh 200 mg</a></li>
+<li><a href="https://modafinilxl.com/buy-modaheal-200-mg-otc/">Modaheal 200 mg</a></li>
+<li><a href="https://modafinilxl.com/buy-modalert-online/">Modalert 200 mg</a></li>
+<li><a href="https://modafinilxl.com/buy-armodaxl-pills-online/">ArmodaXL 150 mg (PUREST)</a></li>
+<li><a href="https://modafinilxl.com/buy-armodavinil-tablets-online/">Armodavinil 150 mg</a></li>
+<li><a href="https://modafinilxl.com/artvigil-150-by-hab-pharma/">Artvigil 150 mg</a></li>
+<li><a href="https://modafinilxl.com/buy-extra-strong-artvigil-250mg-online/">Strong Artvigil 250 mg</a></li>
+<li><a href="https://modafinilxl.com/waklert-150-by-sun-pharma/">Waklert 150 mg</a></li>
+<li><a href="https://modafinilxl.com/sublingual-modafil-md-200mg/">Sublingual Tabs</a></li>
+<li><a href="https://modafinilxl.com/buy/modafinil-armodafinil-combo-pack/">M/A Combo Pack</a></li>
+<li><a href="https://modafinilxl.com/buy/modalert-waklert-combo-pack/">Premium Combo Pack</a></li>
+<li><a href="https://modafinilxl.com/free-modalert-trial-pack/">Free Trial Pack</a></li>
+<li><a href="https://modafinilxl.com/modafinil-coupons-promo-code/">Modafinil Coupon</a></li>
+<li><a href="https://modafinilxl.com/ed-viagra/">ED Pills & Hair Loss</a></li>
+<li><a href="https://modafinilxl.com/buy/wholesale-modafinil-bulk-order/">Wholesale Price Bulk Order</a></li>
+</ul>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-6">
+<ul class="simple-links">
+<li><a href="https://modafinilxl.com/reliable-vendor-reviews/">Most Recent Reviews</a></li>
+<li><a href="https://modafinilxl.com/coupons-discounts-promo-codes/">ModafinilXL Coupons</a></li>
+<li><a href="https://modafinilxl.com/faq-billing-credit-card/">Credit Card & Billing</a></li>
+<li><a href="https://modafinilxl.com/shipping/">Shipping FAQ</a></li>
+<li><a href="https://modafinilxl.com/modafinil-faq-most-common-issues/">Generic Modafinil FAQ</a></li>
+<li><a href="/store-credit/">Store Credit</a></li>
+<li><a href="https://modafinilxl.com/policies/">Refund Policy</a></li>
+<li><a href="https://support.modafinilxl.com/hc/en-us/requests/new" rel="nofollow noopener noreferrer" target="_blank">Help Center</a></li>
+<li><a href="https://modafinilxl.com/tracking/"> Tracking</a></li>
+<li><a href="https://modafinilxl.com/top-modafinil-affiliate-program-best/">Affiliate</a></li>
+<li><a href="https://modafinilxl.com/privacy/">Privacy</a></li>
+<li><a href="https://modafinilxl.com/terms/">Terms</a></li>
+<li><a href="https://modafinilxl.com/cheap-generic-modalert/">About</a></li>
+<li><a href="https://modafinilxl.com/contact-us/">Contact Us</a></li>
+<li><a href="https://modafinilxl.com/my-account/">Sign In</a></li>
+<li><a href="https://modafinilxl.com/sitemap/">Sitemap</a></li>
+</ul>
+</div>
+</div>
+<p class="widget-title">POPULAR CATEGORIES</p>
+<div class="row">
+    <div class="col-xs-6 col-sm-6 col-md-6">
+        <ul class="simple-links">
+            <li><a href="https://modafinilxl.com/domestic-usa-usps-delivery/">Domestic US to US</a></li>
+            <li><a href="https://modafinilxl.com/buy-modalert-pills-online/">Modalert</a></li>
+            <li><a href="https://modafinilxl.com/purchase-modafinil-online/">Modafinil</a></li>
+            <li><a href="https://modafinilxl.com/generic-armodafinil-online/">Armodafinil</a></li>
+        </ul>
+    </div>
+</div></div>
+		</div><div id="text-5" class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-nr-3 widget_text"><p class="widget-title">WE SHIP WORLDWIDE</p>			<div class="textwidget">Express with tracking (7-12 business days)<br/>
+Standard shipping (10-18 business days)<br/><br/>
+
+Depending on stock we are pleased to offer domestic UK to UK, US to US, and EU shipping options.<br/><br/>
+
+UK Domestic Royal Mail (3-7 days)<br/>
+US Domestic (3-4 days and overnight)<br/>
+EU Shipping (14-28 days)<br/><br/>
+Express shipping option is trackable, standard shipments don't require a signature. Est express delivery date: Saturday 12 Aug<br/><br/>
+<p class="widget-title">SHIPPING COSTS</p>
+Express with tracking $39 – FREE over $180<br/>Standard shipping $29 – FREE over $80<br/>UK Domestic Royal Mail £49 plus 50% of your order subtotal<br/>US Domestic USPS Priority FREE Over $249<br/><br/>
+<p class="widget-title">DISCREET PACKAGING</p>
+All products are sent in discreet packaging. No reference to the modafinil online pharmacy or any medication appears on the packaging. 
+<br/><br/>
+<p class="widget-title">FULL REFUNDS</p>
+We're constantly tracking all orders. Should any issues arise, we'll automatically notify you and you'll be able to choose between a full refund or a free reshipment.<br/><br/>
+Express shipping from India and Singapore takes 7-12 business days. UK & US domestic shipping options are also available for our best selling generic modafinil brands.
+<br/>
+<p>Example of <a href="https://cutt.ly/usps-us/" target="_blank" rel="nofollow noopener noreferrer">tracking information</a></p></div>
+		</div><div id="text-6" class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-nr-3 widget_text"><p class="widget-title">MODAFINIL ONLINE PHARMACY</p>			<div class="textwidget">Buy modafinil online! It’s the easiest, cheapest and most discreet way of ordering your generic Provigil. We allow our customers to save hundreds of dollars while receiving a generic product that is every bit as effective as the branded pills! Modafinil is now an affordable, easily accessible and super effective smart drug.
+<br/><br/>
+As with branded medications, the active ingredients of generic drugs also receive approval from the FDA. So, whether you are on a budget or just looking to order your modafinil discreetly, the safe, generic modafinil should work for you!
+<br/><br/>
+<p class="widget-title">SECURE SSL PAYMENTS</p>
+<a href="http://support.modafinilxl.com/hc/en-us" rel="nofollow noopener" target="_blank"><img src="https://modafinilxl.com/wp-content/uploads/2016/03/SecureCreditCardOnline.png" alt="Buy modafinil with Visa, MasterCard Credit Card Secure SSL" border=”0” /></a><br/><br/>
+This website is secured with high-grade 256-bit encryption with an SSL certificate by Comodo.<br/><br/>
+<a href="https://modafinilxl.com/pay-with-bitcoin/"> <img src="https://modafinilxl.com/wp-content/uploads/2016/03/Bitcoin_Accepted_Here.png"  alt="Buy Modafinil Online with Bitcoin" border=”0” /></a></div>
+		</div>                    </div><!-- /.row -->
+                </div><!-- /.container -->
+            </div><!-- /.subfooter -->
+            
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="bottom-footer-left col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="footer-copyright"><p>© 2010-2023 Copyright ModafinilXL, ModafinilBuyOnline – Buy Modafinil Online ツ Cheap Modalert Pharmacy | Buy Modafinil Online with Bitcoin & Save 20%</p><br><a href="https://www.dmca.com/Protection/Status.aspx?ID=141494c3-bcf1-4104-8159-ac10f5066956&amp;refurl=https://modafinilxl.com/tracking/?tracking=RR230274675AE" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=141494c3-bcf1-4104-8159-ac10f5066956&amp;refurl=https://modafinilxl.com/tracking/?tracking=RR230274675AE"  alt="DMCA.com Protection Status" /></a>  <script data-type="lazy" data-src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></br></div>                </div>
+
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /.footer -->
+    </footer>
+</div><!--/wrapper-->
+
+</div><!-- close #cg-page-wrap -->
+
+<!--[if !IE]><!-->
+<link rel='stylesheet' id='tablepress-responsive-css' href='https://modafinilxl.com/wp-content/plugins/tablepress-responsive-tables/tablepress-responsive.min.css?ver=1.2' type='text/css' media='all' />
+<!--<![endif]-->
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/w.js?ver=202331' id='woo-tracks-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2' id='accounting-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.8.2' id='selectWoo-js'></script>
+<script type='text/javascript' id='yith-wcan-shortcodes-js-extra'>
+/* <![CDATA[ */
+var yith_wcan_shortcodes = {"query_param":"yith_wcan","supported_taxonomies":["product_cat","product_tag"],"content":"#content","change_browser_url":"1","instant_filters":"1","ajax_filters":"1","reload_on_back":"1","show_clear_filter":"","scroll_top":"","scroll_target":"","modal_on_mobile":"","session_param":"","show_current_children":"","loader":"","toggles_open_on_modal":"","mobile_media_query":"991","base_url":"https:\/\/modafinilxl.com\/tracking\/","terms_per_page":"10","currency_format":{"symbol":"&#36;","decimal":".","thousand":",","precision":0,"format":"%s%v"},"labels":{"empty_option":"All","search_placeholder":"Search...","no_items":"No item found","show_more":"Show %d more","close":"Close","save":"Save","show_results":"Show results","clear_selection":"Clear","clear_all_selections":"Clear All"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/yith-woocommerce-ajax-navigation/assets/js/yith-wcan-shortcodes.min.js?ver=4.23.0' id='yith-wcan-shortcodes-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/modafinilxl.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/cryptocurrency-payment-gateway/assets/js/nanobar.js?ver=1.4.6' id='nanobar-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/cryptocurrency-payment-gateway/assets/js/qrcodejs-master/qrcode.js?ver=1.4.6' id='QRCode-js'></script>
+<script type='text/javascript' id='geoip-ajax-handle-js-extra'>
+/* <![CDATA[ */
+var server_script = {"ajaxurl":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='geoip-ajax-handle-js' data-type="lazy" data-src="https://modafinilxl.com/wp-content/plugins/geoip-maxmind/js/ajax.js?ver=6.2.2"></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/idlppsms/public/js/idlatobshipping-public.js?ver=1.0.0' id='idlatobshipping-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/sitewide-notice-wp/js/jquery_cookie.js?ver=2.1.4' id='swnza_css-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce-conditional-product-fees-for-checkout-premium/public/js/woocommerce-conditional-product-fees-for-checkout-public.js?ver=3.9.3.1' id='woocommerce-conditional-product-fees-for-checkout-js'></script>
+<script type='text/javascript' id='fue-account-subscriptions-js-extra'>
+/* <![CDATA[ */
+var FUE = {"ajaxurl":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php","ajax_loader":"https:\/\/modafinilxl.com\/wp-content\/plugins\/woocommerce-follow-up-emails\/templates\/images\/ajax-loader.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce-follow-up-emails/templates/js/fue-account-subscriptions.js?ver=4.9.51' id='fue-account-subscriptions-js'></script>
+<script type='text/javascript' id='fue-front-script-js-extra'>
+/* <![CDATA[ */
+var FUE_Front = {"is_logged_in":"","ajaxurl":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce-follow-up-emails/templates/js/fue-front.js?ver=4.9.51' id='fue-front-script-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/modafinilxl.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.8.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.8.2' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.8.2' id='woocommerce-js'></script>
+<script type='text/javascript' id='wp-postratings-js-extra'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/modafinilxl.com\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"stars_crystal","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://modafinilxl.com/wp-content/plugins/wp-postratings/images/stars_crystal/rating_over.gif";;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.90.1' id='wp-postratings-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.12.0' id='ppress-flatpickr-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.12.0' id='ppress-select2-js'></script>
+<script type='text/javascript' id='ppress-frontend-script-js-extra'>
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"fca2731c78","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.12.0' id='ppress-frontend-script-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.10.0' id='vc_woocommerce-add-to-cart-js-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-datepicker.js?ver=6.0.6' id='wcj-datepicker-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-weekpicker.js?ver=6.0.6' id='wcj-weekpicker-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce-jetpack/includes/lib/timepicker/jquery.timepicker.min.js?ver=6.0.6' id='jquery-ui-timepicker-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-timepicker.js?ver=6.0.6' id='wcj-timepicker-js'></script>
+<script type='text/javascript' id='yquery-js-extra'>
+/* <![CDATA[ */
+var yotpo_settings = {"app_key":"Gki52X8wJlu8ms5FuovdYKVdI3cbMmw4OinGXOsK"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='yquery-js' data-type="lazy" data-src="https://modafinilxl.com/wp-content/plugins/yotpo-social-reviews-for-woocommerce/assets/js/headerScript.js"></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/js/dist/waypoints.min.js?ver=6.2.2' id='cg_waypoints-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/inc/core/bootstrap/dist/js/bootstrap.min.js?ver=6.2.2' id='cg_bootstrap_js-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/js/src/cond/jquery.magnific-popup.min.js?ver=6.2.2' id='cg_magnific-popup-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/js/src/cond/owl.carousel.min.js?ver=6.2.2' id='cg_owlcarousel-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/js/src/cond/modernizr.custom.min.js?ver=6.2.2' id='cg_modernizr-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/js/src/cond/inewsticker.js?ver=6.2.2' id='cg_ticker-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/js_composer/assets/lib/flexslider/jquery.flexslider.min.js?ver=6.10.0' id='flexslider-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-includes/js/wp-util.min.js?ver=6.2.2' id='wp-util-js'></script>
+<script type='text/javascript' id='cg_quickview-js-extra'>
+/* <![CDATA[ */
+var cg_ajax = {"cg_ajax_url":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/js/src/cond/cg_quickview.js?ver=6.2.2' id='cg_quickview-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/js/dist/plugins.min.js?ver=6.2.2' id='cg_commercegurus_plugins_js-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/js/dist/commercegurus.min.js?ver=6.2.2' id='cg_commercegurus_js-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/themes/adrenalin/js/src/cond/cgchosen.js?ver=6.2.2' id='cg_chosen_js-js'></script>
+<script type='text/javascript' id='affwp-crypto-global-js-extra'>
+/* <![CDATA[ */
+var affwp_crypto_vars = {"ajaxurl":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/affiliatewp-crypto/plugin_core/includes/js/global.js?ver=6.2.2' id='affwp-crypto-global-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/codecanyon-9085826-bitcoin-for-woocommerce-3/assets/js/zeroclipboard/jquery.zeroclipboard.min.js?ver=7.8.2' id='zeroclipboard-js'></script>
+<script type='text/javascript' id='wc-bitcoin-js-extra'>
+/* <![CDATA[ */
+var wc_bitcoin_params = {"ajaxurl":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php","media_base_url":"https:\/\/modafinilxl.com\/wp-content\/plugins\/codecanyon-9085826-bitcoin-for-woocommerce-3\/assets\/media\/","play_alert_sound":"yes","nonce":"e2140d8dcd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/codecanyon-9085826-bitcoin-for-woocommerce-3/assets/js/checkout.js?ver=3.1.0' id='wc-bitcoin-js'></script>
+<script type='text/javascript' id='wapg-ajax-js-extra'>
+/* <![CDATA[ */
+var wapg_ajax = {"ajax_url":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php","cs_token":"239619b7bc","action":"_cs_wapg_custom_call","pl_gif":"https:\/\/modafinilxl.com\/wp-content\/plugins\/woo-altcoin-payment-gateway\/assets\/img\/price-loader.gif","lp":{"cpM":"frontend\\functions\\CsMiscellaneous@get_crypto_prices","wLcP":"frontend\\functions\\widgets\\CsWidgets@widget_get_live_coin_prices"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woo-altcoin-payment-gateway/assets/js/wapg_ajax.js?ver=1.7.1' id='wapg-ajax-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woo-altcoin-payment-gateway/assets/js/wapg_app.min.js?ver=1.7.1' id='wapg-app-main-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woo-altcoin-payment-gateway/assets/js/cs.widgets.min.js?ver=1.7.1' id='wapg-app-widgets-js'></script>
+<script type='text/javascript' id='wapg-checkout-scripts-js-extra'>
+/* <![CDATA[ */
+var wapg_checkout = {"options":{"defaultOptn":{"enabled":"no","title":"\ud83d\udd12 Altcoins (ETH, XRP, LTC, BCH, ADA, BNB, USDT etc.)","description":"Make your payment directly into our AltCoin address. Your order won\u2019t be shipped until the funds have cleared in our account.","payment_icon_url":"https:\/\/modafinilxl.com\/wp-content\/plugins\/woo-altcoin-payment-gateway\/assets\/img\/icon-24x24.png"},"order_button_text":null,"enabled":"no","title":"\ud83d\udd12 Altcoins (ETH, XRP, LTC, BCH, ADA, BNB, USDT etc.)","description":"Make your payment directly into our AltCoin address. Your order won\u2019t be shipped until the funds have cleared in our account.","chosen":null,"method_title":"AltCoin Payment","method_description":"AltCoin Payment Gateway Plugin for WooCommerce.","has_fields":true,"countries":null,"availability":null,"icon":"https:\/\/modafinilxl.com\/wp-content\/plugins\/woo-altcoin-payment-gateway\/assets\/img\/icon-24x24.png","supports":["products"],"max_amount":0,"view_transaction_url":"","new_method_label":"","pay_button_id":"","\u0000*\u0000tokens":[],"plugin_id":"woocommerce_","id":"wapg_altcoin_payment","errors":[],"settings":{"enabled":"no","title":"\ud83d\udd12 Altcoins (ETH, XRP, LTC, BCH, ADA, BNB, USDT etc.)","description":"Make your payment directly into our AltCoin address. Your order won\u2019t be shipped until the funds have cleared in our account.","payment_icon_url":"https:\/\/modafinilxl.com\/wp-content\/plugins\/woo-altcoin-payment-gateway\/assets\/img\/icon-24x24.png"},"form_fields":{"enabled":{"title":"Enable \/ Disable","label":"Enable AltCoin payment gateway","type":"checkbox","default":"no"},"title":{"title":"Title","type":"text","desc_tip":"Payment title of checkout process.","default":"AltCoin"},"description":{"title":"Description","type":"textarea","desc_tip":"Payment title of checkout process.","default":"Make your payment directly into our AltCoin address. Your order won\u2019t be shipped until the funds have cleared in our account.","css":"max-width:450px;"}},"\u0000*\u0000data":[],"payment_icon_url":"https:\/\/modafinilxl.com\/wp-content\/plugins\/woo-altcoin-payment-gateway\/assets\/img\/icon-24x24.png","0":false},"checkout_script_hook":null,"nonce":"239619b7bc","custom_text":{"sd":"Special Discount","ctc":"I have completed the coin transfer successfully! ","sw":"Please enter a secret word.","swph":"please enter a secret word.","swh":"Incidentally if you close this window or somehow you disconnected from the internet, You can use this secret word to submit your order. Save the word in safe place.","tbtntext":"Track My Coin Transfer ","tn":"N.B: After initiate the coin transfer, please click the \"Track My Coin Transfer\" button immediately. Do not close the window until the tracking process get done. Otherwise your order will not be proceed.","stitle":"You have to pay:","c":"Coin","t":"Total","st":"Subtotal","np":"Net Payable Amount","npn":"(*Transfer Fee Not Included)","ca":"Please pay to following address:","ctt":"Please enter your ","ctt1":" transaction hash \/ id :","ctxid":"please enter here your coin transaction id","acc":"Address has been copied to clipboard!","s":"Successful.."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/woo-altcoin-payment-gateway/assets/js/checkout.min.js?ver=1.7.1' id='wapg-checkout-scripts-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/ag_functions/assets/js/scripts.js?ver=20190204' id='ag-scripts-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Lc8NSgaAAAAAPvS9Af8Z5QPWnSgt3fS9fqY6y_y&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Lc8NSgaAAAAAPvS9Af8Z5QPWnSgt3fS9fqY6y_y","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.7' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' id='front-js-js-extra'>
+/* <![CDATA[ */
+var zorem_ajax_object = {"ajax_url":"https:\/\/modafinilxl.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/trackship-for-woocommerce/assets/js/front.js?ver=1.6.2' id='front-js-js'></script>
+<script type='text/javascript' src='https://modafinilxl.com/wp-content/plugins/4k-icon-fonts-for-visual-composer/js/script.js?ver=6.2.2' id='4k-icons-js'></script>
+
+                            <!-- SiteWide Notice WP Cookies -->
+                <script type="text/javascript">
+                    jQuery(document).ready(function($){
+                        if( Cookies.get('swnza_hide_banner_cookie') != 1 ) {
+                            $('.swnza_banner').show();
+                        }
+
+                        $('#swnza_close_button_link').click(function(){
+                        Cookies.set('swnza_hide_banner_cookie', 1, { expires: 1, path: '/' }); //expire the cookie after 24 hours.
+                        $('.swnza_banner').hide();
+                        });
+                    });
+                </script>
+            
+          
+
+            <!-- SiteWide Notice WP Custom CSS -->
+                <style type="text/css">
+                    .swnza_banner{
+                        position:fixed;
+                        min-height:50px;
+                        height:auto;
+                        width:100%;
+                        background:#008000;
+                        padding-top:10px;
+                        z-index:999;
+                        display:block;
+                    }  
+
+                     
+                        .swnza_banner{ bottom:0; }
+                        .swnza_close_button { top:-10px;}
+                       
+
+                    .swnza_banner p {
+                        color: #ffffff;
+                        text-align:center;
+                        z-index:1000;
+                        font-size:20px;
+                        display:block;
+                        margin: 0;
+                    }
+
+                                        .swnza_close_button{
+                        display:block;
+                        position:absolute;
+                        right:5px;
+                        width:20px;
+                        height:20px;
+                        background:url("https://modafinilxl.com/wp-content/plugins/sitewide-notice-wp/images/close-button.svg") no-repeat center center;
+                        background-color:white;
+                        border-radius:100px;
+                        border: 1px solid #000;
+                    }
+
+                    .swnza_close_button:hover{
+                        cursor: pointer;
+                    }
+
+                
+                    #swnza_banner_text{
+                        margin-top:0;
+                    }
+
+                                </style>
+                
+                <div class="swnza_banner" id="swnza_banner_id" style="display:none;">
+                <p id="swnza_banner_text"><a href="/domestic-usa-usps-delivery/">US Domestic Shipping Option Is Now Available 🇺🇸 USPS Priority Mail (3-4 Days) &gt;</a></p>
+                <a id="swnza_close_button_link" class="swnza_close_button"></a>
+                </div>
+        <!-- Start of vbest Zendesk Widget script -->
+<script data-type="lazy" data-src="data:text/javascript;base64,Lyo8IVtDREFUQVsqL3dpbmRvdy56RW1iZWR8fGZ1bmN0aW9uKGUsdCl7dmFyIG4sbyxkLGkscyxhPVtdLHI9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiaWZyYW1lIik7d2luZG93LnpFbWJlZD1mdW5jdGlvbigpe2EucHVzaChhcmd1bWVudHMpfSx3aW5kb3cuekU9d2luZG93LnpFfHx3aW5kb3cuekVtYmVkLHIuc3JjPSJqYXZhc2NyaXB0OmZhbHNlIixyLnRpdGxlPSIiLHIucm9sZT0icHJlc2VudGF0aW9uIiwoci5mcmFtZUVsZW1lbnR8fHIpLnN0eWxlLmNzc1RleHQ9ImRpc3BsYXk6IG5vbmUiLGQ9ZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoInNjcmlwdCIpLGQ9ZFtkLmxlbmd0aC0xXSxkLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHIsZCksaT1yLmNvbnRlbnRXaW5kb3cscz1pLmRvY3VtZW50O3RyeXtvPXN9Y2F0Y2goYyl7bj1kb2N1bWVudC5kb21haW4sci5zcmM9J2phdmFzY3JpcHQ6dmFyIGQ9ZG9jdW1lbnQub3BlbigpO2QuZG9tYWluPSInK24rJyI7dm9pZCgwKTsnLG89c31vLm9wZW4oKS5fbD1mdW5jdGlvbigpe3ZhciBvPXRoaXMuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7biYmKHRoaXMuZG9tYWluPW4pLG8uaWQ9ImpzLWlmcmFtZS1hc3luYyIsby5zcmM9ZSx0aGlzLnQ9K25ldyBEYXRlLHRoaXMuemVuZGVza0hvc3Q9dCx0aGlzLnpFUXVldWU9YSx0aGlzLmJvZHkuYXBwZW5kQ2hpbGQobyl9LG8ud3JpdGUoJzxib2R5IG9ubG9hZD0iZG9jdW1lbnQuX2woKTsiPicpLG8uY2xvc2UoKX0oImh0dHBzOi8vYXNzZXRzLnplbmRlc2suY29tL2VtYmVkZGFibGVfZnJhbWV3b3JrL21haW4uanMiLCJ2YmVzdC56ZW5kZXNrLmNvbSIpOwovKl1dPiov"></script>
+<!-- End of vbest Zendesk Widget script --><!-- Start of Zendesk Widget script -->
+<script data-type="lazy" data-src="data:text/javascript;base64,Lyo8IVtDREFUQVsqL3dpbmRvdy56RW1iZWR8fGZ1bmN0aW9uKGUsdCl7dmFyIG4sbyxkLGkscyxhPVtdLHI9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiaWZyYW1lIik7d2luZG93LnpFbWJlZD1mdW5jdGlvbigpe2EucHVzaChhcmd1bWVudHMpfSx3aW5kb3cuekU9d2luZG93LnpFfHx3aW5kb3cuekVtYmVkLHIuc3JjPSJqYXZhc2NyaXB0OmZhbHNlIixyLnRpdGxlPSIiLHIucm9sZT0icHJlc2VudGF0aW9uIiwoci5mcmFtZUVsZW1lbnR8fHIpLnN0eWxlLmNzc1RleHQ9ImRpc3BsYXk6IG5vbmUiLGQ9ZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoInNjcmlwdCIpLGQ9ZFtkLmxlbmd0aC0xXSxkLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHIsZCksaT1yLmNvbnRlbnRXaW5kb3cscz1pLmRvY3VtZW50O3RyeXtvPXN9Y2F0Y2goYyl7bj1kb2N1bWVudC5kb21haW4sci5zcmM9J2phdmFzY3JpcHQ6dmFyIGQ9ZG9jdW1lbnQub3BlbigpO2QuZG9tYWluPSInK24rJyI7dm9pZCgwKTsnLG89c31vLm9wZW4oKS5fbD1mdW5jdGlvbigpe3ZhciBvPXRoaXMuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7biYmKHRoaXMuZG9tYWluPW4pLG8uaWQ9ImpzLWlmcmFtZS1hc3luYyIsby5zcmM9ZSx0aGlzLnQ9K25ldyBEYXRlLHRoaXMuemVuZGVza0hvc3Q9dCx0aGlzLnpFUXVldWU9YSx0aGlzLmJvZHkuYXBwZW5kQ2hpbGQobyl9LG8ud3JpdGUoJzxib2R5IG9ubG9hZD0iZG9jdW1lbnQuX2woKTsiPicpLG8uY2xvc2UoKX0oImh0dHBzOi8vYXNzZXRzLnplbmRlc2suY29tL2VtYmVkZGFibGVfZnJhbWV3b3JrL21haW4uanMiLCJteGwuemVuZGVzay5jb20iKTsvKl1dPiov"></script>
+<!-- End of Zendesk Widget script -->
+<!-- BEGIN: _GUARANTEE Seal -->
+<span id="_GUARANTEE_SealSpan" ></span>
+<img style="display:none;" src="//nsg.symantec.com/Web/Seal/AltSealInfo.aspx?S=Large&T=M&Elem=ImgTagSeal&HASH=fur%2B8MOLjoy7I5yNHTj7HMRUOcsGKvfkg%2B%2B2HOgzF900MVNiaeI%2FFIF2ceuJgQGeoZXzwXgxnnF5hpfCqE4zYw%3D%3D&CBF=AB&AB=1&DP=fn=;src=ImgTagSeal;grt=true" />
+<script type="text/javascript" data-type="lazy" data-src="//nsg.symantec.com/Web/Seal/gjs.aspx?SN=956018152"></script>
+<script type="text/javascript" >
+if( window._GUARANTEE && _GUARANTEE.Loaded ) {
+  _GUARANTEE.Hash = "fur%2B8MOLjoy7I5yNHTj7HMRUOcsGKvfkg%2B%2B2HOgzF900MVNiaeI%2FFIF2ceuJgQGeoZXzwXgxnnF5hpfCqE4zYw%3D%3D";
+  _GUARANTEE.WriteSeal( "_GUARANTEE_SealSpan", "GuaranteedSeal" );
+}
+</script>
+<!-- END: _GUARANTEE Seal -->	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='redux-custom-fonts-css' href='//modafinilxl.com/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1690874960' type='text/css' media='all' />
+<link rel='stylesheet' id='front_style-css' href='https://modafinilxl.com/wp-content/plugins/trackship-for-woocommerce/assets/css/front.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='4k-icon-fa-css' href='https://modafinilxl.com/wp-content/plugins/4k-icon-fonts-for-visual-composer/icons/css/fa.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='4k-icons-css' href='https://modafinilxl.com/wp-content/plugins/4k-icon-fonts-for-visual-composer/css/icon-styles.css?ver=6.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://widget.reviews.io/rich-snippet/dist.js?ver=6.2.2' id='reviewsio-rich-snippet-js'></script>
+<script type="text/javascript" id="flying-scripts">const loadScriptsTimer=setTimeout(loadScripts,5*1000);const userInteractionEvents=["mouseover","keydown","touchstart","touchmove","wheel"];userInteractionEvents.forEach(function(event){window.addEventListener(event,triggerScriptLoader,{passive:!0})});function triggerScriptLoader(){loadScripts();clearTimeout(loadScriptsTimer);userInteractionEvents.forEach(function(event){window.removeEventListener(event,triggerScriptLoader,{passive:!0})})}
+function loadScripts(){document.querySelectorAll("script[data-type='lazy']").forEach(function(elem){elem.setAttribute("src",elem.getAttribute("data-src"))})}</script>
+    <script>(function($,d){$.each(readyQ,function(i,f){$(f)});$.each(bindReadyQ,function(i,f){$(d).bind("ready",f)})})(jQuery,document)</script>
+</body>
+</html>
